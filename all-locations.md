@@ -1,10 +1,43 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-17T05:06:49.922117+00:00
+UPDATED AT: 2020-06-22T22:41:06.079147+00:00
 
 
 # Alabama
+
+## Birmingham
+
+### Police arrest two reporters | June 3
+
+Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
+
+tags: arrest, journalist
+
+id: al-birmingham-1
+
+**Links**
+
+* https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
+
+### Police arrest journalist Michael Harriot | June 4
+
+Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
+
+Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could show credentials but said he did not have any with him;" per Harriot, "officers said they couldn’t let me have my phone to show my digital credentials;" he "told them they could just call the mayor’s office to verify my media credentials; they did not attempt to." Per AL.com, "the department’s public information officer... said he \[asked Harriot\] if there was anyway \[_sic_\] to make contact with his company to confirm he was media and Harriot said no."
+
+According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
+
+tags: arrest, journalist, racial-profiling
+
+id: al-birmingham-2
+
+**Links**
+
+* https://www.theroot.com/a-letter-not-from-a-birmingham-jail-1843926346
+* https://www.al.com/news/birmingham/2020/06/journalist-michael-harriot-arrested-after-birmingham-protest.html
+* [Video](https://www.youtube.com/watch?v=H308RU7jtM4)
+* [Poynter institute guidance for journalists](https://www.poynter.org/reporting-editing/2020/23-guidelines-for-journalists-to-safely-cover-protests-this-weekend/)
 
 ## Hoover
 
@@ -103,7 +136,7 @@ id: al-huntsville-5
 
 ### Officer tackles and arrests person walking home from protest | May 30th
 
-An officer tackles a protestor that is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice, the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying".
+An officer tackles a protestor who is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice; the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying".
 
 tags: beat, arrest, inhumane-treatment, threaten, tackle
 
@@ -112,6 +145,36 @@ id: az-phoenix-1
 **Links**
 
 * https://twitter.com/PhxProtestLIVE/status/1268390978571825156?s=20
+
+### Officers arrest dozens of people, fail to exhibit probable cause | May 30th
+
+Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level felony). The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity. One defendant, a DACA recipient, was transferred to ICE custody despite a judge finding that her arrest lacked probable cause. She has since been released.
+
+tags: abuse-of-power, arrest
+
+id: az-phoenix-2
+
+**Links**
+
+* [Local news coverage](https://www.abc15.com/news/local-news/investigations/phoenix-police-arrests-dozens-with-copy-and-paste-evidence)
+* [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
+
+### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
+
+On May 31, police forced protesters who were out after curfew into the Garfield neighborhood using tear gas and other means. Police then began arresting protesters in the Garfield neighborhood en masse. Officers approached Elizabeth Lemay, who was not part of the protests and was standing on the sidewalk outside her home. They tried to arrest her and tackled her in the process. She told the officers "I live here" and "I'm allowed to be on my own property;" the officer responded (in a cheerful tone of voice) "You're on the sidewalk. You guys think you know. You think you know everything."
+
+Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her. 
+
+tags: arrest, tackle, tear-gas
+
+id: az-phoenix-3
+
+**Links**
+
+* [Local news report, with video](https://www.azcentral.com/story/news/local/phoenix/2020/06/01/residents-phoenix-garfield-neighborhood-say-police-not-protesters-were-problem-protest/5312347002/?utm_campaign=snd-autopilot&cid=twitter_azcentral)
+* [Google doc, allegedly containing complaints by Garfield neighborhood residents](https://docs.google.com/document/d/1BxK7bi8Iim-bOb_A03pUQ1ATFRZfcxAdbCCnowo2kbI/edit?fbclid=IwAR1ofant2QVqUhgOjy6OkB7SSURXA6Vik3i38Mm7X0hTgL1ZtCv7iHVzRVY#)
+* [Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood](https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154)
+* [Similar complaints from Reddit](https://www.reddit.com/r/phoenix/comments/gvdjhw/garfield_neighborhood_was_terrorized_sunday_may_31/)
 
 
 
@@ -160,7 +223,7 @@ id: ar-littlerock-1
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
-tags: tear-gas
+tags: tear-gas, tear-gas-canister
 
 id: ca-clayton-1
 
@@ -180,7 +243,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 [This Reddit comment asserts these police are members of the LASD.](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/)
 
-tags: kneel-on-neck, kneel, punch, kick, threaten, inhumane-treatment
+tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment
 
 id: ca-compton-1
 
@@ -219,13 +282,43 @@ id: ca-hollywood-1
 * https://twitter.com/AdoreDelano/status/1267688320735166465
 
 
+### Police fire into a crowd of peaceful protesters at short range | June 2nd
+
+Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
+
+Footage does not indicate that any protesters were violent with any officer before the shooting began.
+
+tags: shove, shoot, rubber-bullets
+
+id: ca-hollywood-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
+
+
+## Huntington Beach
+
+### Police fire at protestors on ground | June 1st
+
+Protestors laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protestors began standing, police fired projectiles at protestors. Police continued to fire off and on for at least one minute while protestors obeyed order to retreat.
+
+tags: shoot, projectiles
+
+id: ca-hungtingtonbeach-1
+
+**Links**
+
+* https://twitter.com/Ricardo_4715/status/1267334754119999488
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
 
-Law enforcement stand off with protesters, seemingly without provocation they start gassing and shooting at the protesters.
+Law enforcement stand off with protesters. Seemingly without provocation they start gassing and shooting at the protesters.
 
-tags: tear-gas
+tags: tear-gas, projectile, shoot
 
 id: ca-lamesa-2
 
@@ -234,7 +327,7 @@ id: ca-lamesa-2
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face | May 31st
+### Police shoot woman in the face with rubber bullet | May 31st
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
 
@@ -255,7 +348,7 @@ id: ca-lamesa-1
 
 Photo shows large bruise the reporter got from a rubber bullet
 
-tags: rubber-bullets
+tags: shoot, rubber-bullets, journalist
 
 id: ca-longbeach-1
 
@@ -267,7 +360,7 @@ id: ca-longbeach-1
 
 ## Los Angeles
 
-### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
+### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
@@ -282,9 +375,9 @@ id: ca-losangeles-2
 
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
-Los Angeles law enforcement beat several protesters with batons.
+A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
-tags: beat, baton
+tags: beat, baton, shoot, rubber-bullets
 
 id: ca-losangeles-3
 
@@ -326,7 +419,7 @@ LAPD using Metro buses to transport arrested protestors after transit service sh
 
 tags: inhumane-treatment
 
-id: ca-losangeles-24
+id: ca-losangeles-23
 
 **Links**
 
@@ -436,7 +529,7 @@ id: ca-losangeles-12
 * https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
 
 
-### Los Angeles law enforcement shot at a man on his own balcony | May 31st
+### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
 
 Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
 
@@ -490,11 +583,11 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2nd
+### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
-The police are seen shooting at fleeing protestors and parked vehicles.
+A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way. 
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, vehicle, drive
 
 id: ca-losangeles-1
 
@@ -506,27 +599,14 @@ id: ca-losangeles-1
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 
-### Photograph documents aftermath of LAPD firing non-lethal round at face of homeless man in wheelchair | June 2
-
-Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
-
-tags: shoot, projectile, homeless
-
-id: ca-losangeles-18
-
-**Links**
-* https://www.instagram.com/p/CBCiZXOlno4/
-* https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
-* https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
-
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
 
-A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting non-lethal round at the man.
+A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting less-than-lethal round at the man.
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-tags: shoot, projectile, homeless
+tags: shoot, projectile, homeless, person-with-disability
 
 id: ca-losangeles-17
 
@@ -559,12 +639,42 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 
 tags: shoot, projectile, tear-gas
 
-id: ca-los-angeles-20
+id: ca-losangeles-20
 
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Police tear gas peaceful protest | June 21st
+
+Footage shows scattered protestors on pedestrian walkway with police firing tear gas around them. Additional footage shows protestors helping one another recover from the damage.
+
+A journalist states they were tear-gassed while holding up their press badge in plain view.
+
+tags: tear-gas, journalist
+
+id: ca-losangeles-21
+
+**Links**
+* https://twitter.com/josie_huang/status/1274859389921267713
+* https://twitter.com/josie_huang/status/1274860188898430976
+
+
+### Police fire less-lethal rounds at protestors | June 21st
+
+Footage shows police and protestors separated by a barricade. Protestors shout at police to put their guns down. Without verbal warning, police fire on protestors.
+
+In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-22
+
+**Links**
+* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
+* https://twitter.com/josie_huang/status/1274863117004988416
 
 
 ## Oakland
@@ -580,6 +690,7 @@ id: ca-oakland-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
+* https://tuckbot.tv/#/watch/gttdkj
 
 
 ### Oakland law enforcement shoot a reporter | May 31st
@@ -665,6 +776,7 @@ id: ca-sandiego-2
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
@@ -853,16 +965,29 @@ id: ca-vallejo-1
 
 ### Armored law enforcement vehicle threatens protestors | June 2nd
 
-In this video, an armored law enforcement vehicle tells protestors over megaphone "if you do not move, you will be dead."
+In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas.
 
-tags: threaten
+tags: threaten, tear-gas, vehicle
 
 id: ca-walnutcreek-1
 
 **Links**
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
+* https://jalopnik.com/cop-in-armored-truck-tells-peaceful-protesters-if-you-1843886752
 
+
+### Police fire tear gas at peaceful protestors | June 2nd
+
+A small number of peaceful protestors are scattered in the street. Someone shouts, "Get back," and protestors begin running. Shots can be heard and tear gas is fired into the crowd.
+
+tags: tear-gas
+
+id: ca-walnutcreek-2
+
+**Links**
+
+* https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
 
 
 
@@ -872,9 +997,9 @@ id: ca-walnutcreek-1
 
 ### Multiple cops pin man to ground while repeatedly punching him | June 1st
 
-At least 5 cops pin man to the ground. Several of them punch him even though he appears to not be resisting. According to the person that posted the video he was shot by rubber bullets before this took place.
+Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
-tags: arrest, punch, kneel, rubber-bullets
+tags: arrest, beat, punch, kneel, rubber-bullets, tackle
 
 id: co-coloradosprings-1
 
@@ -897,11 +1022,14 @@ id: co-denver-1
 **Links**
 
 * https://www.denverpost.com/2020/05/29/denver-post-photographer-pepper-balls-george-floyd-protest/
+* https://www.nytimes.com/2020/06/01/business/media/reporters-protests-george-floyd.html
 
 
 ### Police pepperspray people trying to record | May 29th
 
-An officer peppersprays someone recording the capitol building through his sun roof as well as a second person recording in front of the car.
+A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently peppersprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also peppersprays a second person recording in front of the car.
+
+tags: pepper-spray, spray, vehicle
 
 id: co-denver-2
 
@@ -910,27 +1038,30 @@ id: co-denver-2
 * https://twitter.com/greg_doucette/status/1266758227930333188
 * https://twitter.com/Dizzle14Double/status/1266615473816260609
 * https://twitter.com/SaltMagazine_/status/1266634027257098240
+* [Local news coverage](https://www.9news.com/article/news/local/local-politics/denver-police-chief-wants-videos-of-force-used-on-protesters-investigated/73-127e08b7-f648-459f-9687-b67c45ab8259)
 
 
 ### Denver law enforcement shoot at reporters | May 29th
 
-A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit."
+A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit." (It later turned out that the projectile was a pepper ball, not a paintball.)
 
-tags: journalist, tear-gas, projectile, shoot, paintball
+tags: journalist, tear-gas, projectile, shoot, pepper-ball
 
 id: co-denver-3
 
 **Links**
 
 * https://twitter.com/AdiGTV/status/1266554320717099008
+*	https://pressfreedomtracker.us/all-incidents/photojournalist-covering-denver-protests-hit-multiple-pepper-balls/
+*	https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
 
 
 ### Denver SWAT shoot at woman trying to stop armored car | May 29th
 
-A woman stops an armored SWAT car (number: APC01?) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
-Three armored police get out from back of armored car, one walks around the side and shoots at the woman from what looks like a paintball gun.
+A woman stops an armored SWAT car (marked APC01) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
+Three armored police get out from back of armored car. One walks around the side and shoots some projectile, hitting the ground in front of the woman.
 
-tags: shoot, paintball
+tags: shoot, projectile, vehicle
 
 id: co-denver-4
 
@@ -954,7 +1085,7 @@ id: co-denver-13
 
 ### Police throw reporter into fire | May 30th
 
-Policemen throw a reporter into the fire for trying to take images of the scene.
+Policemen throw a reporter to the ground, apparently with little or no warning and possibly toward a fire.
 
 tags: push, shove, throw, journalist
 
@@ -995,10 +1126,10 @@ id: co-denver-7
 
 ### Bystander claims police shoot him in the eye | May 30th
 
-Bystander claims law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, blinding him in one eye.
+A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
 
 
-tags: shoot, projectile
+tags: shoot, projectile, rubber-bullet
 
 id: co-denver-14
 
@@ -1008,22 +1139,37 @@ id: co-denver-14
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
+### Police spray two people who are backing away | (believed to be) May 30th
+
+A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
+
+tags: mace, spray
+
+id: co-denver-15
+
+**Links**
+
+* [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
+* [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+
+
 ### Police fire pepper balls at car with pregnant woman | May 31st
 
-Police shoot some pepper balls at a car with a prenant woman inside. The driver steps out telling them there is a pregnant woman, after a few seconds multiple officers light up the car with even more shots
+The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
 
-tags: pregnant, pepper-ball, shoot
+tags: pregnant, pepper-ball, shoot, vehicle
 
 id: co-denver-8
 
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gumff6/denver_police_fire_pepper_balls_at_a_car_with_a/
+* https://www.denverpost.com/2020/06/04/denver-police-investigation-pepper-balls-shot-pregnant-woman-in-car/
 
 
 ### Police officer fires at protestor while driving away | May 31st
 
-This officer and fires a pepper pellet directly at someone filming.
+Officers are on a police truck leaving the area. One officer fires a pepper ball directly at someone filming, hitting their phone.
 
 tags: shoot, pepper-ball
 
@@ -1048,17 +1194,63 @@ id: co-denver-10
 * https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
 
 
+### Officer threatens woman who asks what will happen at curfew | May 31st
+
+A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
+
+tags: threaten, incitement
+
+id: co-denver-16
+
+**Links**
+
+* https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
+
+
+### Footage shows effect of less-lethal round | May 31st
+
+Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
+
+His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
+
+tags: shoot, projectile
+
+id: co-denver-19
+
+**Links**
+
+* https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
+
+
+### Officer incites violence on social media | June 1st
+
+In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the poster captioned the image: "Let's start a riot."
+
+The officer has since been fired from the Denver Police Department.
+
+tags: incitement
+
+id: co-denver-17
+
+**Links**
+
+* https://twitter.com/DenverPolice/status/1267571824054775808
+* https://twitter.com/DenverPolice/status/1267933192805216256
+
+
 ### Police shoot protester from behind with tear gas canister | June 2nd
 
-Use of Force committee member for Denver Police, shot in back with tear gas canisters.
+An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
 
-tags: shoot, tear-gas, tear-gas-canister
+tags: shoot, tear-gas, tear-gas-canister, pepper-ball
 
 id: co-denver-11
 
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gvhqs2/elisabeth_epps_use_of_force_committee_member_for/
+* [Local news report](https://www.denverpost.com/2020/06/02/denver-protests-police-force-tear-gas-george-floyd/)
+* [Local news report](https://www.greeleytribune.com/2020/06/05/denver-police-investigation-pepper-balls-shot-pregnant-woman-in-car-2/)
 
 
 ### Police tackle group of peaceful protesters | June 4th
@@ -1072,6 +1264,23 @@ id: co-denver-12
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
+
+
+### Protestor struck in head at short range with explosive projectile | (Believed to be) June 6th
+
+Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
+
+It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
+
+Footage was first posted on reddit.com/r/protest on June 6th.
+
+tags: shoot, projectile, explosive
+
+id: co-denver-18
+
+**Links**
+
+* https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
 
@@ -1332,6 +1541,28 @@ id: fl-tampa-6
 
 # Georgia
 
+## Athens
+
+### Police fire tear gas at peaceful protest | June 1st
+
+During a peaceful protest near University of Georgia (UGA), police began firing tear gas indiscriminately and with excess.
+
+One protestor can be seen with a firework, similar to a Roman candle, firing from considerable distance and into the air.
+
+Police fired a sustained barrage of tear gas for approximately one minute while protestors retreated.
+
+Later footage shows police continuing to fire tear gas down the street as students walk past with their hands up, obeying police orders.
+
+tags: tear-gas
+
+id: ga-athens-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267978682951491585
+* https://twitter.com/tmckenzie_photo/status/1267313794956562432
+
+
 ## Atlanta
 
 ### Officer body slams woman onto ground | May 29th
@@ -1351,7 +1582,7 @@ id: ga-atlanta-1
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
-tags: shove
+tags: shove, bike
 
 id: ga-atlanta-2
 
@@ -1365,7 +1596,7 @@ id: ga-atlanta-2
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
-tags: tase
+tags: tase, vehicle, grab
 
 id: ga-atlanta-3
 
@@ -1382,7 +1613,7 @@ id: ga-atlanta-3
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
-tags: punch, strike, arrest, knee
+tags: punch, strike, arrest, knee, tackle
 
 id: ga-atlanta-4
 
@@ -1750,6 +1981,24 @@ id: in-indianapolis-1
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
 
 
+### Police tear gas peaceful protest, including worshipping congregation | May 31st
+
+On Sunday May 31st at Monument Circle in Indianapolis, police state they, prior to curfew, were attempting to apprehend a man who allegedly was trying to spray-paint a statue. 
+
+To do so, police tear-gassed the entire group gathered, which included 50 members of Liberty Tabernacle, who had gathered to sing, pray and listen to speakers. A tear-gas canister landed at the feet of one member of the congregation who uses a wheelchair.
+
+At a news conference on June 1st, the Police chief stated: "My sincere apologies for anyone who was in this peaceful demonstration downtown that was impacted by the tear gas."
+
+tags: tear-gas, tear-gas-canister, person-with-disability
+
+id: in-indianapolis-3
+
+**Links**
+
+* https://www.theindychannel.com/news/local-news/police-apologize-after-non-violent-protesters-tear-gassed-on-monument-circle
+* https://twitter.com/greg_doucette/status/1268404518326276096
+
+
 ### Police beat woman with batons and shoot pepper balls, shove another to the ground | June 1st
 
 A woman is seen being restrained by a police officer who stands behind her with his arms around her torso. She struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
@@ -1935,8 +2184,11 @@ id: ky-louisville-4
 
 **Links**
 
-* [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
+* [Video including Context](https://i.imgur.com/1KGZsXW.mp4)
+* [Twitter Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
+* [Reddit Thread](https://www.reddit.com/r/Louisville/comments/gtk5a1/police_aiming_rubber_bullets_at_protestors_heads/)
+
 
 ### Police shoot man in the head with rubber bullet while he is walking away | May 30th
 
@@ -1951,6 +2203,22 @@ id: ky-louisville-8
 * [Wave3 Article and Video](https://www.wave3.com/2020/06/12/protester-shot-head-files-lawsuit-against-law-enforcement/)
 * [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
+
+### Police shoot at cars in traffic from overpass | May 30th
+
+Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
+
+tags: shoot, projectiles, property-destruction
+
+id: ky-louisville-5
+
+**Links**
+
+* [Twitch Video](https://m.twitch.tv/tchcreigo/clip/GentleRelentlessWalrusPoooound)
+* [Twitter Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
+* [Reddit Thread](https://www.reddit.com/r/Louisville/comments/guxosk/lmpd_shooting_pepperballs_at_moving_vehicles_in/)
+
+
 ### Police smashing water bottles | May 31st
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
@@ -1963,18 +2231,6 @@ id: ky-louisville-1
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
 * [89.3 WFPL reporting the mayor's response](https://twitter.com/WFPLNews/status/1266923468102262784)
 
-
-### Police shoot at cars in traffic from overpass | May 31st
-
-Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
-
-tags: shoot, projectiles, property-destruction
-
-id: ky-louisville-5
-
-**Links**
-
-* [Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
 
 ### 5 police officers use batons to beat protester | May 31st
 
@@ -2002,9 +2258,10 @@ id: ky-louisville-3
 
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
 
+
 ### Restaurant owner shot and killed | June 1st
 
-During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a restaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
+LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams. 
 
 tags: death, body-cams, real-bullets, pepper-ball
 
@@ -2017,6 +2274,7 @@ id: ky-louisville-6
 * [Police-released CCTV footage of the incident](https://youtu.be/wDg9fev67lw)
 * [Video taken nearby during the shooting](https://mobile.twitter.com/chadloder/status/1267555717751296000)
 * [New York Times video showing four videos synchronized to show the full sequence of events](https://www.nytimes.com/video/us/100000007175316/the-david-mcatee-shooting-did-aggressive-policing-lead-to-a-fatal-outcome.html)
+* [Facebook post by officer involved glorifying violence (prior to shooting)](https://i.imgur.com/wZUnHYi.jpg)
 
 
 ### Protestors in St. Matthews shot with pepper rounds | June 3rd
@@ -2030,6 +2288,37 @@ id: ky-louisville-7
 **Links**
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
+
+
+### Police shove woman and then fire pepper balls at people who try to help her | Believed to be June 15th
+
+Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
+
+tags: pepper-ball, shoot, shove, baton, arrest
+
+id: ky-louisville-11
+
+**Links**
+
+* [Video of the incident](https://twitter.com/JasonRileyWDRB/status/1272965516286705665)
+* [First person video](https://twitter.com/greg_doucette/status/1273127612546678786)
+* [Victim's account](https://www.instagram.com/p/CBleLePnpR_/)
+
+
+### Police tackle protestor, then target witness | June 16th
+
+A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
+
+tags: rubber-bullets, shoot, tackle, beat, baton
+
+id: ky-louisville-10
+
+**Links**
+
+* [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
+* [Backup Video (original made private)](https://drive.google.com/file/d/1p6FDE2y_T9bi_D3iakcnzOkS9vQIex5k/view?usp=sharing)
+* [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
+
 
 
 
@@ -2190,6 +2479,7 @@ id: mi-detroit-1
 **Links**
 
 * https://twitter.com/AkramG03/status/1266876680142049282
+* [Youtube mirror](https://youtu.be/yRoAXw8cGT4)
 
 
 ### Police pepper-spray reporter holding up media badge | May 30th
@@ -2202,6 +2492,7 @@ id: mi-detroit-2
 
 **Links**
 
+* https://twitter.com/jcreindl/status/1266925170192715782
 * https://twitter.com/DetroitReporter/status/1266957225114861568
 * https://www.freep.com/story/news/local/michigan/detroit/2020/06/01/journalists-targeted-police-protests-detroit/5302659002/
 
@@ -2232,6 +2523,41 @@ id: mi-detroit-6
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 
+### Police charge protestors and press | June 2nd
+
+Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning. 
+
+The footage becomes blurry as it appears that police strike the reporter, who repeatedly states, "I am press," and is standing alongside several camera crews.
+
+The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
+
+tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction
+
+id: mi-detroit-7
+
+**Links**
+
+* https://twitter.com/MCmuckraker/status/1267982859991728130
+* https://twitter.com/MCmuckraker/status/1268011179986870273
+
+
+### Police use LRAD (sound cannon) to disperse protestors | June 2nd
+
+Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm. 
+
+The use of LRADs is a subject of much contention, with frequent reports of permanent nerve and hearing damage caused by their use.
+
+The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests. 
+
+tags: lrad
+
+id: mi-detroit-8
+
+**Links**
+
+* https://twitter.com/MedvisJackson/status/1267984069905784832
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
@@ -2247,13 +2573,16 @@ id: mi-grandrapids-1
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/gub8fx/police_shoot_protestor_point_blank_in_the_face/
 * https://www.fox17online.com/news/local-news/grand-rapids/grpd-conducting-internal-investigation-after-viral-video-of-man-being-pepper-sprayed
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gv3xuu/police_in_grand_rapids_michigan_spray_a_man/
+* [Youtube mirror](https://www.youtube.com/watch?v=G_rWrQ6M6Q8&feature=youtu.be)
 
 
-### Law enforcement push and shove a crowd of protesters.
+### Law enforcement push and shove a crowd of protesters. | May 31st
 
 Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
-tags: shove, push, shields
+Footage shows police have hidden badge numbers and are not wearing body cams.
+
+tags: shove, push, shields, hide-badges, body-cams
 
 id: mi-grandrapids-2
 
@@ -2275,7 +2604,8 @@ id: mi-kalamazoo-1
 **Links**
 
 * https://twitter.com/i/status/1267677463850745858
-* Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
+* [Source, at 33:40](https://www.facebook.com/BlaineBurnett11/videos/963503949886/)
+* [Youtube mirror](https://youtu.be/2e3DR94wBx0)
 
 
 ### Police fire tear gas at peaceful protesters | June 2nd
@@ -2309,26 +2639,28 @@ tags: journalist, baton, beat, strike
 
 id: mn-minneapolis-21
 
-### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
-
-Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
-
-id: mn-minneapolis-28
-
-**Links**
-
-* https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/?multi_permalinks=2673458852933816%2C2673043962975305%2C2672351053044596%2C2672352373044464%2C2672353659711002&notif_id=1590031733032682&notif_t=group_activity
-
 **Links**
 
 * https://youtu.be/XAa5xb6JitI?t=5982
 * https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
 
+### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
+
+Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
+
+tags: abuse-of-power, arrest
+
+id: mn-minneapolis-28
+
+**Links**
+
+* https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/
+
 ### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: flashbangs
+tags: flashbangs, rubber-bullets, tear-gas
 
 id: mn-minneapolis-14
 
@@ -2396,11 +2728,11 @@ id: mn-minneapolis-4
 
 ### WCCO photojournalist arrested | May 30th
 
-While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
+While trying to capture footage of the police tear-gassing a crowd of people, Tom Aviles of the WCCO is told to move back. He asks where; officers again tell him to move back. He moves away, then stops, apparently looking for his producer. He begins moving away again and is arrested shortly thereafter by an officer.
 
 Additional footage shows police fired on the press crew as well.
 
-tags: journalist, arrest
+tags: arrest, baton, journalist, projectile, shoot, shove
 
 id: mn-minneapolis-5
 
@@ -2462,6 +2794,35 @@ id: mn-minneapolis-23
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
 
 
+
+### Medics talk about police destroying tent and slashing tires. | May 30th
+
+Medics set up a tent, police shot rubber bullets and gas at their facility in a Kmart parking lot at Nicollet and Lake St. Medics state they announced clearly their tent had only medics and wounded, but police and National Guard opened fire. After the medics left, officers destroyed their tent and prevented medics from returning. Medics also state police slashed tires.
+
+Medics state they were able to move everyone who needed help.
+
+tags: medic, property-destruction
+
+id: mn-minneapolis-25
+
+**Links**
+
+* https://www.youtube.com/watch?v=gfb_zJiMTFU
+
+### Law enforcement officers slash car tires. | May 30th
+
+Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St. 
+
+tags: abuse-of-power, property-destruction.
+
+id: mn-minneapolis-29
+
+**Links**
+
+* https://twitter.com/val_ebertz/status/1266975058230235137
+* https://twitter.com/Jeff_Wagner4/status/1266933139303268353
+
+
 ### Police shoot at a woman on her porch | May 31st
 
 In an attempt to move residents inside, the police fire shots at them.
@@ -2490,11 +2851,11 @@ id: mn-minneapolis-6
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
 
-### Reporter shares his experience | May 31st
+### Reporter's car window broken by police projectile | May 31st
 
-Ryan Faircloth, reporter for Star Tribune, describes his experience of the police shooting his car's window.
+Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
-tags: shoot, property-destruction
+tags: marking-round, property-destruction, shoot
 
 id: mn-minneapolis-7
 
@@ -2502,6 +2863,9 @@ id: mn-minneapolis-7
 
 * https://twitter.com/JaredGoyette/status/1266961243476299778
 * https://twitter.com/RyanFaircloth/status/1266967500383834114
+* https://twitter.com/RyanFaircloth/status/1266977223568961536
+* [Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/minneapolis-reporter-injured-broken-glass-after-nonlethal-round-shatters-car-window/)
+* [Local news article mentioning this and other incidents](https://www.twincities.com/2020/05/30/journalists-report-being-fired-on-gassed-in-minneapolis-george-floyd-protests/)
 
 
 ### Police slashes tires | May 31st
@@ -2538,7 +2902,7 @@ id: mn-minneapolis-9
 
 ### Police throw flashbangs at reporter | May 31st
 
-MSNBC reporters were just almost hit with some sort of explosive device by law enforcement officers in Minneapolis.
+MSNBC reporters are with a crowd of people walking away from an advancing line of police. Police throw some sort of explosive device at the crowd, almost hitting the reporters. It is unclear what their purpose is in using the explosive
 
 tags: journalist, flashbangs, explosive, projectile
 
@@ -2594,7 +2958,7 @@ id: mn-minneapolis-13
 
 ### Police stop SUV to driveby pepper-spray protesters through window | May 31st
 
-Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08 in first video) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
+Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
 tags: vehicle, drive, spray, pepper-spray
 
@@ -2716,17 +3080,34 @@ id: mo-kansascity-4
 * [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
 
 
-## St. Louis
+### Couple pepper-sprayed; woman knocked unconscious; man blinded by rubber bullet | June 2nd
+
+A couple states that they attended a peaceful protest in the early afternoon with their dog. After seeing police allegedly beat a trumpeter, they took their dog home and returned.
+
+Around 9pm, one victim, Sean, states that police began pepper-spraying without warning. He states that police knocked his partner, Sydney, to the pavement and she fell unconscious. Sean dragged her away to a nearby park. Shortly after she awoke, a rubber bullet struck Sean in the face.
+
+After arriving at the hospital, Sean was told he would be permanently blind, but had been spared broken bones or death by a matter of inches.
+
+tags: pepper-spray, rubber-bullets, spray, shoot
+
+id: mo-kansascity-6
+
+**Links**
+
+* https://www.thepitchkc.com/showing-up-as-an-ally-i-didnt-expect-the-police-to-blind-me-forever-but-ive-mad-my-piece/
+
+
+## Florissant
 
 ### Florissant officer hits man with unmarked police vehicle | June 2nd
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm. 
 
-Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time.
+Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time. There is also no dash-cam footage.
 
-tags: vehivle, drive, kick, strike, beat, body-cam
+tags: vehivle, drive, kick, strike, beat, body-cam, non-protest
 
-id: mo-stlouis-1
+id: mo-florissant-1
 
 **Links**
 
@@ -2830,6 +3211,19 @@ id: nv-lasvegas-4
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
+### Police charge into peaceful crowd shouting "grab anybody" | June 1st
+
+LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
+
+tags: journalist, threaten, arrest, strike, shove, kick
+
+id: nv-lasvegas-2
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267168204863926274
+
+
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
@@ -2844,17 +3238,18 @@ id: nv-lasvegas-1
 * https://www.instagram.com/p/CA14rooHIC6/?utm_source=ig_web_copy_link
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | June 1st
+### Police jump out of car to shove protestors | June 1st
 
-LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
+A police vehicle stops at an intersection; protestors are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protestors.
 
-tags: journalist, threaten, arrest, strike, shove, kick
+tags: vehicle, shove, arrest
 
-id: nv-lasvegas-2
+id: nv-lasvegas-5
 
 **Links**
 
-* https://mobile.twitter.com/chadloder/status/1267168204863926274
+* https://www.tiktok.com/@lord.vizi/video/6833826921755741445
+* https://www.tiktok.com/@lord.vizi/video/6833963763486461190
 
 
 
@@ -2871,6 +3266,8 @@ As reporter is backing away, police yell at him to go him.
 Another officer is heard saying, "Fuck him," before arresting the reporter.
 
 tags: journalist, arrest, shove, push, tackle
+
+id: nj-asburypark-1
 
 **Links**
 
@@ -3283,12 +3680,25 @@ A woman is seeing moving another protestor from the scene in an apparent attempt
 
 tags: arrest, kick, punch, strike, beat, baton
 
-id: ny-newyorkcity-32
+id: ny-newyorkcity-48
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268025470764888066
 * https://www.tiktok.com/@skoodupcam1/video/6833172353724239109
+
+
+### Police chase and beat protestors | May 31st
+
+Footage shows a man with his hands up backing away from a band of police officers (approximately 10-20). As the man backs across an intersection, an officer charges up to shove him. Officers then chase him and several bystanders, before tackling the man to the ground and beating him.
+
+tags: arrest, shove, beat, tackle
+
+id: ny-newyorkcity-42
+
+**Links**
+
+* https://twitter.com/brandon212_/status/1267184037547986944
 
 
 ### Officer threatens protestors with what appears to be a handgun | June 1st
@@ -3403,7 +3813,27 @@ id: ny-newyorkcity-35
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
 
 
+### Police confiscate protestor's bike | June 3rd
+
+Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure. 
+
+A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
+
+tags: journalist, bike, abuse-of-power, property-destruction
+
+id: ny-newyorkcity-45
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268398967777308672
+* https://twitter.com/ArminRosen/status/1268353044896505867
+
+
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
+
+Police strike a protestor with batons, before tackling him and arresting him. They shove other protestors with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
+
+Additional footage (link 4) from a journalist involved in the incident shows evidence of police shoving protestors and journalists throughout the night.
 
 tags: journalist, shove, strike, throw, beat, arrest, batons
 
@@ -3412,6 +3842,9 @@ id: ny-newyorkcity-23
 **Links**
 
 * https://twitter.com/johnknefel/status/1268736946031001607
+* https://twitter.com/greg_doucette/status/1269115518574833664
+* https://twitter.com/sydneyp1234/status/1269110395165446149
+* https://twitter.com/greg_doucette/status/1269103085584093184
 
 
 ### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
@@ -3490,17 +3923,112 @@ id: ny-newyorkcity-39
 * https://twitter.com/greg_doucette/status/1269788200630996993
 
 
-### NYPD pushes crowd into tight space and attacks several with batons | June 5th
+### NYPD target non-protesting legal observers | June 4th
 
-At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons.
+A CUNY grad student working with the National Lawyers Guild (NLG), often identified by neon hats, states he was approached by eight officers emerging from an unmarked van. He states he told police he was working with the NLG and that the curfew had not yet begun.
 
-tags: pepper-spray, spray, batons, beat
+The student states police seized his notebook and accused him of "illegal counter-surveillance against police." He additionally states hearing a call over the radio: "A lot of LOs out tonight," where LO is an abbrevation for Legal Observer. Although the NYPD patrol guide acknowledges the observers' right to monitor police activity and record the names of arrestees, the student and at least 10 other observers were arrested.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-40
+
+**Links**
+
+* https://gothamist.com/news/round-green-hats-nypd-accused-deliberately-targeting-legal-observers-brutal-bronx-mass-arrest
+* https://www.youtube.com/watch?v=OLn2iy-ia24&feature=emb_logo
+* https://www.youtube.com/watch?v=yuJWAEqfHO8&feature=emb_logo
+
+
+### NYPD pushes crowd into tight space and makes violent mass arrests | June 4th
+
+At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons. Police then proceeded to make violent mass arrests. Footage shows use of batons and shields to strike protesters and police kneeling on protestors to make arrests.
+
+Footage additionally shows officers standing on cars to swing batons at protestors.
+
+One video additionally shows protestors shouting for a medic as a woman has gone into labor.
+
+tags: pepper-spray, spray, batons, beat, shield, strike, arrest, pregnant
 
 id: ny-newyorkcity-25
 
 **Links**
 
 * https://twitter.com/AndomForNY/status/1269065176814358529
+* [pregnant woman at 2:08](https://twitter.com/AndomForNY/status/1269065999048941569)
+* https://twitter.com/AndomForNY/status/1269066762357805056
+* https://twitter.com/AndomForNY/status/1269067815752957953
+* https://twitter.com/ghouldisco/status/1268872802708357122
+
+
+### Police arrest hospital employee acting as medic | June 4th
+
+A crowd gathers around as a man in scrubs is arrested. 
+
+In a report after the fact, he says police laughed when he and other detained protestors requested masks. He also states that he was kept with 17 people in a small, warm room (he approximates 8'x10' and 85 degrees).
+
+tags: medic, arrest, abuse-of-power, inhumane-treatment
+
+id: ny-newyorkcity-47
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269083492140408832
+* https://twitter.com/left_voice/status/1268897203508084736
+
+
+### Police shove multiple reporters | June 4th
+
+At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first. 
+
+tags: journalist, baton, strike, shove
+
+id: ny-newyorkcity-43
+
+**Links**
+
+* https://twitter.com/carolineha_/status/1268726970331906051
+* https://twitter.com/RosalindZAdams/status/1268729386213298180
+
+
+### Couple arrested on their stoop for cheering protestors | June 4th
+
+A woman states she was arrested on the stoop of her home (which is private property and exempt from curfew restrictions) after cheering on passing protestors. Her footage shows a man being arrested while police tell the others to go inside because of the curfew, despite the fact that their stoop is acceptable under curfew restrictions.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-44
+
+**Links**
+
+* https://twitter.com/shainataub/status/1268919620456665088
+* https://twitter.com/shainataub/status/1268920887467802625
+
+
+### Police officer hides badge number and name | June 4th
+
+Video shows a police officer with a strip of tape covering his badge number. In addition, he has removed his name tag. He states he has received direct orders from above to do so.
+
+tags: hide-badges, abuse-of-power
+
+id: ny-newyorkcity-46
+
+**Links**
+
+* https://twitter.com/BreezeCrypto/status/1268595409733156868
+
+
+### Police shove protestor off bike | June 5th
+
+Footage shoves a small crowd of protestors arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
+
+tags: bike, shove, push
+
+id: ny-newyorkcity-41
+
+**Links**
+
+* https://twitter.com/C_Sommerfeldt/status/1269110624132489217
 
 
 ### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
@@ -3601,6 +4129,7 @@ id: nc-charlotte-1
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+*  https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
 *  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
 
 
@@ -3618,6 +4147,21 @@ id: nc-charlotte-2
 
 * https://twitter.com/greg_doucette/status/1270185252665864193
 * https://twitter.com/kaitlinwa24/status/1270113046606864389
+
+
+### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | June 18th
+
+The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors. 
+
+Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to ziptie. In addition, a reporter filming was struck by an officer and threatened with arrest.
+
+tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten
+
+id: nc-charlotte-3
+
+**Links**
+
+* [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
 ## Raleigh
@@ -3912,6 +4456,7 @@ id: oh-cleveland-3
 * https://twitter.com/NEO_Scan/status/1266848874163027970
 * https://www.cleveland.com/court-justice/2020/06/cleveland-police-gave-order-for-george-floyd-protesters-to-disperse-legal-observers-witnesses-said-no-one-heard-it.html
 * https://twitter.com/AntonioAlan216/status/1266877225707745280
+* https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
 ## Columbus
@@ -3996,6 +4541,7 @@ id: oh-columbus-16
 **Links**
 
 * https://twitter.com/bwk1992/status/1266833971570237442
+
 
 ### Police pepper-spray a medic | May 31st
 
@@ -4149,8 +4695,46 @@ id: oh-columbus-14
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
-* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
-* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
+* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
+
+
+### Bronze star veteran recounts injuries from police at protests  | June 5th
+
+In an article from the Columbus Dispatch, a veteran, Ryan McMullen, recounts injuries he sustained at police hands from the beginning of protests up to Friday, June 5th.
+
+He states that he was maced, hit by a police officer on a bicycle, struck by ricocheting tear gas canisters, and shot 6 times with wooden pellets.
+
+In the interview, he stated: "This is worse than anything I received in an actual war zone,” citing special forces and contractor work in Afghanistan and East Africa.
+
+tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shot, wooden-bullets
+
+id: oh-columbus-18
+
+**Links**
+
+* https://www.dispatch.com/news/20200607/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus
+* [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
+
+
+### Man maced by police | June 21st
+
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
+
+Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
+
+Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
+
+tags: mace, pepper-spray, spray, shove, person-with-disability
+
+id: oh-columbus-19
+
+**Links**
+
+* https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
+* [Man seen in background around 0:14](https://www.reddit.com/r/Columbus/comments/hddsqd/gotta_love_the_cop_dual_wielding_pepper_spray_cans/)
+* [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
+
 
 ## Dayton
 
@@ -4349,6 +4933,19 @@ id: or-portland-7
 * [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
 
 
+### Police apply no-assembly order to journalists | June 15th
+
+Early in the morning on June 15th, a police car announces to a journalist walking home that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
+
+tags: journalist
+
+id: or-portland-8
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1272427882359353344
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
@@ -4535,7 +5132,23 @@ id: pa-philadelphia-6
 
 ## Pittsburgh
 
-### Officer pepper-sprays a woman who is on her knees with her hands up
+### Police tear-gas, shoot and arrest protestor confused by contradicting police instructions | May 30th
+
+John Connors, a protestor in Pittsburgh on Saturday, May 30th, was recording the protest on his phone, when police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
+
+He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
+
+tags: tear-gas, tear-gas-canister, shoot, arrest, projectiles
+
+id: pa-pittsburgh-3
+
+**Links**
+
+* https://pittsburgh.cbslocal.com/2020/06/03/protester-hopes-cell-phone-video-clears-his-name/
+* https://twitter.com/greg_doucette/status/1270149233673469957
+
+
+### Officer pepper-sprays a woman who is on her knees with her hands up | June 1st
 
 A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
 
@@ -4563,6 +5176,25 @@ id: pa-pittsburgh-2
 * https://www.reddit.com/r/pittsburgh/comments/guzshz/police_declaring_an_unlawful_assembly_against_a/
 * https://www.facebook.com/BenjaminKFerris/posts/3091613010894973
 * https://twitter.com/gautamyadav818/status/1267606317893550080
+* [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
+
+
+### Police pepper spray two kneeling protestors | June 1st
+
+Two protestors kneel with their hands up 5-10 feet from police. One of the protestors appears to try to talk to the police. Police then pepper-spray the protestors, who then flee. 
+
+Users on Twitter allege the woman was a medic attempting to notify the police and/or provide aid to an injured person in a nearby parking garage.
+
+Footage was posted on Twitter as a reply to footage of another incident on June 1st.
+
+tags: pepper-spray, spray
+
+id: pa-pittsburgh-4
+
+**Links**
+
+* https://twitter.com/messiest_headd/status/1267816842413740034
+* https://twitter.com/stabpossum/status/1268203842174361600
 
 
 
@@ -4707,6 +5339,22 @@ id: tx-austin-5
 * https://twitter.com/ironfront7/status/1267133400156196870
 
 
+### Pregnant woman shot with bean bags by police | May 30th
+
+A pregnant woman in Austin states she was sitting during a May 30th protest. As police began to pepper-spray the crowd, she stood to run. Police then shot her multiple times in the abdomen, back and head. The Austin Police Chief has stated the incident is under review.
+
+Fortunately, the woman did not suffer a miscarriage.
+
+tags: pregnant, bean-bags, shoot
+
+id: tx-austin-8
+
+**Links**
+
+* https://www.statesman.com/news/20200612/pregnant-woman-shot-with-beanbag-round-by-austin-police-wants-them-held-accountable
+* https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
+
+
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
@@ -4823,6 +5471,8 @@ id: tx-dallas-4
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
+Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
+
 tags: flashbangs, tear-gas
 
 id: tx-dallas-2
@@ -4830,6 +5480,7 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+* https://twitter.com/calvinwatkins
 
 
 ### Police fire rubber bullet on peaceful protestor | June 1st
@@ -4910,13 +5561,26 @@ A man was filming police walking down the street and making comments like "that 
 
 tags: shoot, rubber-bullets
 
-id: tx-sanantonio-2
+id: tx-sanantonio-1
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
 * [Mirror](https://tuckbot.tv/#/watch/gu3s6j)
 * https://twitter.com/chadloder/status/1267124991809609728
+
+
+### Police fire on protestors without warning | June 2nd
+
+Police are protestors are gathered several feet apart. Between the two lines, a protestor is seen telling other protestors to put their hands up. Police then fire as protestors scatter.
+
+tags: shoot, projectile
+
+id: tx-sanantonio-2
+
+**Links**
+
+* https://twitter.com/SanAntonioProbz/status/1268027491987468288
 
 
 
@@ -4934,18 +5598,6 @@ id: tbd-tbd-1
 
 * https://twitter.com/perfectlyg0lden/status/1267014293628870656
 
-
-### Officer beats a protestor while pinning him on the ground |
-
-At the beginning of this video, an officer can be seen punching a protestor in the head while pinning him to the ground.
-
-tags: punch, tackle
-
-id: tbd-tbd-2
-
-**Links**
-
-* https://twitter.com/samjwc/status/1267355060666654720
 
 
 
@@ -5132,6 +5784,20 @@ id: va-richmond-4
 
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
 
+
+### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
+
+In this video, protestors on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protestors and knocks a protester off of their bike.
+
+tags: vehicle, drive
+
+id: va-richmond-6
+
+**Links**
+
+* https://twitter.com/BreRVA/status/1271982379180138502
+
+
 ### Police fire tear gas and rubber bullets at peaceful protest | June 15th
 
 Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protestors.
@@ -5147,6 +5813,21 @@ id: va-richmond-5
 * https://twitter.com/ZyahnaB/status/1272716305813118976
 * https://twitter.com/ZyahnaB/status/1272716632541089792
 * https://twitter.com/GoadGatsby/status/1272701413169287175
+
+
+### Police pepper-spray journalist | June 21st
+
+First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately. 
+
+He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
+
+tags: pepper-spray, spray, shove, journalist
+
+id: va-richmond-7
+
+**Links**
+
+* https://twitter.com/aeringle/status/1274898298923606017
 
 
 
@@ -5251,6 +5932,7 @@ id: wa-seattle-12
 
 * https://twitter.com/The_Stepover/status/1267236742278463488
 * https://twitter.com/eavu__/status/1267260549814870016
+* https://twitter.com/samjwc/status/1267355060666654720
 
 
 ### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
