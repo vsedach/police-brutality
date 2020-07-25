@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-17T06:09:54.194828+00:00
+UPDATED AT: 2020-07-25T04:43:57.596065+00:00
 
 
 # Alabama
@@ -163,6 +163,22 @@ id: az-phoenix-2
 
 * [Local news coverage](https://www.abc15.com/news/local-news/investigations/phoenix-police-arrests-dozens-with-copy-and-paste-evidence)
 * [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
+
+
+### Photographer injured by rubber bullets | May 30th
+
+A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protestors took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
+
+The photographer now has four staples in his head, a concussion, and a bruised lung.
+
+tags: journalist, shoot, rubber-bullets
+
+id: az-phoenix-5
+
+**Links**
+
+* https://www.abc15.com/news/region-phoenix-metro/valley-photographer-injured-in-phoenix-protest-released-from-hospital
+* https://pressfreedomtracker.us/all-incidents/head-wound-bruised-lung-and-concussion-photographer-covering-phoenix-protests/
 
 
 ### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
@@ -430,19 +446,20 @@ id: ca-lamesa-2
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face with rubber bullet | May 31st
+### Police shoot woman in the face with bean bag | May 31st
 
-La Mesa PD shoot a woman in the face with a rubber bullet.
+La Mesa PD shoot a woman in the face with a bean bag round.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, bean-bag, protestor
 
 id: ca-lamesa-1
 
 **Links**
 
-* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
+* [10:20](https://www.facebook.com/100010947670361/videos/1115087385532840)
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
+* [Body cam footage](https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hw99zb/la_mesa_police_bodycam_of_the_protests_leslie/)
 
 
 ## Long Beach
@@ -941,6 +958,19 @@ id: ca-losangeles-31
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
+### Protestor shows wound inflicted by less-lethal round | June 3rd
+
+Footage from June 3rd shows a still of a wound on a protestor's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+tags: protestor, shoot, projectile
+
+id: ca-losangeles-41
+
+**Links**
+
+* https://www.instagram.com/p/CBBpSZPnyke/
+
+
 ### Police fire projectiles at protesters and discharge teargas | June 5th
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
@@ -954,6 +984,19 @@ id: ca-losangeles-20
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Medic treats rubber bullet wound | June 8th
+
+Footage from June 8th shows a medic treating a wound on the thigh of a female protestor. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+tags: protestor, shoot, rubber-bullet
+
+id: ca-losangeles-42
+
+**Links**
+
+* https://www.instagram.com/p/CBKohCXnJld/
 
 
 ### Police tear gas peaceful protest | June 21st
@@ -986,6 +1029,32 @@ id: ca-losangeles-22
 
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
+
+
+### Police make violent arrests, including ripping a protestor out of his wheelchair and inducing an asthma attack | July 15th
+
+Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him. Body cam footage released by the LAPD shows the man in the wheelchair striking an officer in the face during a physical altercation between the protestor and the officer. Notably, the LAPD footage fails to show the lead up to the protestor in the wheelchair slapping the officer.
+
+Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons. The poster also alleges that police held a woman in a chokehold.
+
+Additional [footage](https://www.instagram.com/p/CCqPuekHCyg/) shows an officer striking a protestor with a baton as the protestor tries to help the man in the wheelchair.
+
+Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.\
+
+tags: arrest, shove, strike, property-destruction, person-with-disability, baton
+
+id: ca-losangeles-40
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hrwunn/cops_assaulting_blm_protesters_including_a_man_in
+* https://www.instagram.com/p/CCsYvr7n-Rg/
+* https://www.latimes.com/california/story/2020-07-16/police-said-they-assaulted-an-officer-but-protesters-have-a-different-account
+* https://www.nbcbayarea.com/news/national-international/lapd-releases-video-from-confrontation-with-protesters-in-downtown-la/2328794/?_osource=SocialFlowTwt_BAYBrand
+* https://twitter.com/LAPDHQ/status/1284891644454596608
+* https://www.instagram.com/p/CCqPuekHCyg/
+* https://twitter.com/allykerans/status/1283563591900164096
+* https://www.instagram.com/p/CCxPb28hRdN/
 
 
 ## Norco
@@ -1066,7 +1135,7 @@ id: ca-riverside-1
 
 ## Sacramento
 
-### Police shoot protester in the head | May 31st
+### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
@@ -1793,6 +1862,21 @@ id: co-denver-21
 * https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
 
 
+### Police pepper spray BLM counter-protestors at pro-police rally | July 19th
+
+Article discusses use of pepper spray at pro-police rally where Black Lives Matter groups counter-protested. “We had two pepper ball deployments and one hand-held fog device deployment, and we made one arrest for assault,” Denver police spokesman Tyrone Campbell said. The hand-held fog device is believed to refer to pepper spray. The spokesman goes on to say that "It seems as if [riot control devices] were used in an appropriate fashion." Some additional footage shows police pepper-spraying a retreating crowd. Riot guns can also be heard firing.
+
+tags: protestor, pepper-spray, spray, shoot, projectile
+
+id: co-denver-24
+
+**Links**
+
+* https://www.denverpost.com/2020/07/19/pro-police-rally-denver-cific-center-counter-protest/
+* https://twitter.com/ShellyBradbury/status/1284980898958540803
+* https://twitter.com/mattsebastian/status/1285049239937024000
+
+
 
 
 # Connecticut
@@ -2023,6 +2107,21 @@ id: fl-miami-3
 * https://twitter.com/nikoboxxx/status/1278466163219951616
 * https://twitter.com/nikoboxxx/status/1278472993111326720
 * https://twitter.com/nikoboxxx/status/1278473483257708544
+
+
+### Police roughly arrest protest organizer | July 16th
+
+Footage shows a small group of protestors on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protestor who attempts to intervene.
+
+tags: arrest, shove, protestor, abuse-of-power
+
+id: fl-miami-4
+
+**Links**
+
+* https://www.youtube.com/watch?v=-4h4uAIt52Q&feature=youtu.be
+* https://www.reddit.com/r/PublicFreakout/comments/hshrzh/blm_organizer_attacked_arrested_alongwith_friends/
+* https://twitter.com/attorneycrump/status/1283855142673055745
 
 
 ## Orlando
@@ -2570,6 +2669,103 @@ id: il-chicago-14
 * https://twitter.com/punishmegrant/status/1268966252707487745
 
 
+### Cop suddenly punches activist | July 17th
+
+Cop punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
+
+tags: punch, protester
+
+id: il-chicago-15
+
+**Links**
+
+* [Cop can be seen punching young woman at 0:06](https://twitter.com/GKMC18/status/1284347396311388161)
+* [Video taken by activist herself; she drops her phone at 4:25 when punched and the video ends](https://m.facebook.com/story.php?story_fbid=177411500432063&id=100044896430818)
+* [Image of the victim with injuries to her face and teeth](https://twitter.com/GKMC18/status/1284312594052939777)
+* https://blockclubchicago.org/2020/07/18/18-year-old-activist-had-teeth-knocked-out-by-police-at-columbus-statue-protest-alderman-state-senator-say/
+
+
+### Violent arrests made in Grant Park | July 17th
+
+Footage shows a series of violent arrests and altercations between police and protestors. Police tackle, shove, strike and pepper spray protestors indiscriminately. Protestors are also struck with batons. One use states that police allegedly hit press during this series of events.
+
+tags: strike, baton, protestor, tackle, shove, push, pepper-spray, spray, arrest
+
+id: il-chicago-16
+
+**Links**
+
+* https://twitter.com/poonfarm/status/1284289077530054656
+* https://twitter.com/DominicGwinn/status/1284291163940429831
+* https://twitter.com/poonfarm/status/1284295285993283584
+* https://twitter.com/poonfarm/status/1284550521785913350
+
+
+### Police strike protestor with baton while attempting to seize bike | July 17th
+
+Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protestor for unknown reason. The police officer swats at the protestor's hands with his baton in an apparent attempt to release the protestor's hold on the bike.
+
+tags: strike, baton, protestor
+
+id: il-chicago-17
+
+**Links**
+
+* https://twitter.com/KeepinKidsSafe/status/1284289666615844871
+
+
+### Journalist harassed, threatened and shoved by police | July 17th
+
+First-person footage from a journalist shows a police officer shoving, threatening and harassing a journalist. Allegedly the officer began harassing the journalist, calling him a "smartass," after the journalist displayed his press badge.
+
+tags: threaten, shove, push, journalist
+
+id: il-chicago-18
+
+**Links**
+
+* https://twitter.com/colinbphoto/status/1284301680524382208
+
+
+### Phone knocked out of reporter's hand | July 17th
+
+Footage from a CBS Chicago reporter shows an officer knocking the phone out of her hand, then kicking it across the ground.
+
+tags: strike, journalist, property-destruction
+
+id: il-chicago-19
+
+**Links**
+
+* https://twitter.com/MarParNews/status/1284306440971325440
+
+
+### Police indiscriminately pepper spray protestors | (Believed to be) July 17th
+
+Footage uploaded on July 19th shows an officer standing some distance from protestors. He discharges pepper spray in the general direction of the protestors.
+
+tags: pepper-spray, spray, protestor
+
+id: il-chicago-20
+
+**Links**
+
+* https://twitter.com/frantheman10/status/1284911153785778177
+
+
+### Police vehicle drives on sidewalk, collides with protestors | July 18th
+
+Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protestor then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
+
+tags: vehicle, strike, protestor, property-destruction
+
+id: il-chicago-21
+
+**Links**
+
+* https://twitter.com/jamaicaponders/status/1284680046473621505
+
+
 ## Joliet
 
 ### Officers grabs someone by the neck then more cops pile on | May 31st
@@ -2936,17 +3132,27 @@ id: ia-desmoines-8
 
 ## Iowa City
 
-### Police shoot tear gas at peaceful protestors who have their hands up | June 3rd
+### Iowa State Police use tear gas & flashbangs against crowd of civilians attempting to enter I-80 and later against Iowa City EMS. | June 3rd
 
-Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
+State police shoot tear gas into, and deploy flashbangs against, a crowd of peaceful protesters attempting to enter I-80. Some protesters stumble and fall as they try to flee.
 
-tags: tear-gas, protestor
+Reportedly,  one protester suffered seizures as a result of a flashbang, and an ambulance was called to the scene.
+
+Police continued to deploy tear gas and flashbangs in the area where Iowa city EMT's were working (see flashing white lights in cloud of gas, 5th link). Unclear if they were aware of EMS presence.
+
+According to the mayor, Iowa State Patrol was in command of the scene (though some Iowa City Police were present) and it was determined that letting the protest onto I-80 was too dangerous.
+
+tags: tear-gas, protestor, flashbang, medic
 
 id: ia-iowacity-1
 
 **Links**
 
 * https://twitter.com/DJPAIMON/status/1268399580753858561
+* https://www.reddit.com/r/IowaCity/comments/gwx86v/another_angle_of_the_police_firing_upon_us/
+* https://www.reddit.com/r/IowaCity/comments/gwml8n/state_police_gassing_citizens/
+* https://www.reddit.com/r/IowaCity/comments/gwaqzx/from_a_facebook_livestreamseems_like_peaceful/
+* https://www.reddit.com/r/IowaCity/comments/gwc763/iowa_city_pd_gassed_and_flashbanged_their_own/
 
 
 
@@ -3451,6 +3657,23 @@ id: mi-detroit-6
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 
+### Reporter detained without apparent cause | May 31st
+
+Footage shows a reporter walking across a park to film an arrest. She is approached by an officer (off camera) who asks who she is with. He then zip-ties her and walks her to another location. Around 4:20, she is released. An individual explaining (not seen, but has the same voice as the arresting officer) says, "You were hanging out with those two people. It looked like they were throwing bottles at us. Do us a favor and trip them when they're running or something to make it easier on us."
+
+Footage from another reporter shows her handcuffed and led to the car. This reporter states that a group of press intervened to have her released.
+
+tags: journalist, zip-ties
+
+id: mi-detroit-11
+
+**Links**
+
+* https://www.facebook.com/DetroitNews/videos/855231228320197/
+* https://twitter.com/MKurlyandchik/status/1267269219789529090
+* https://pressfreedomtracker.us/all-incidents/detroit-news-journalist-captures-her-own-detention-livestream/
+
+
 ### Police charge protestors and press | June 2nd
 
 Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning.
@@ -3499,6 +3722,20 @@ id: mi-detroit-9
 * https://twitter.com/DJEazyTwist/status/1277430912653950976
 
 
+### Riot police officer chokes protestor. Tear gas was also used. | July 11th
+
+A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
+
+tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister
+
+id: mi-detroit-10
+
+**Links**
+
+* https://twitter.com/AttorneyCrump/status/1282107085812047873
+* https://www.instagram.com/p/CCfSTAnjv_k/
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
@@ -3531,6 +3768,25 @@ id: mi-grandrapids-2
 
 * https://twitter.com/DJR2C2/status/1267006669583720448
 * https://twitter.com/sparrowsongs_/status/1266948928966139904
+
+
+### Police assault peaceful protesters, among them Breonna Taylor's family members | July 12th
+
+City of Grand Rapids Police Department officers seen pushing, pulling, and shoving peaceful protesters, as they circle around an officer arresting a man.
+
+The arresting officer appears to force the man to his knees before the other officers finish encircling and view of the man is lost.
+
+Two different women, each in different videos, are shown falling or fallen over as a result of the shoving and pulling.
+
+tags: shove, push, arrest, protestor
+
+id: mi-grandrapids-3
+
+**Links**
+
+* https://twitter.com/OfficAlyNicole/status/1283181085577420810
+* https://twitter.com/greg_doucette/status/1283027373018013699
+* https://twitter.com/greg_doucette/status/1283027125805735939
 
 
 ## Kalamazoo
@@ -4005,9 +4261,9 @@ id: mo-kansascity-1
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
 
+Footage shows a protestor speaking to other protestors on a megaphone. Police grab him and drag him to arrest. Other protestors come to his aid and are pepper-sprayed.
 
-
-tags: arrest, tear-gas, protestor
+tags: arrest, pepper-spray, spray, protestor
 
 id: mo-kansascity-2
 
@@ -4015,6 +4271,20 @@ id: mo-kansascity-2
 
 * https://twitter.com/Elise_Villa/status/1267310319526989824
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
+
+
+### Police arrest peaceful protestor, pepper-spray others | May 31st
+
+With tactics remarkably similar to mo-kansascity-2, police grab a protestor standing alone in the street. Other protestors come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
+
+tags: arrest, pepper-spray, spray, protestor
+
+id: mo-kansascity-8
+
+**Links**
+
+* https://www.tiktok.com/@keraclark2/video/6833017428105055494
+* https://twitter.com/lovlitae/status/1268676585269473280
 
 
 ### Police arrest man for speaking and tear-gas nearby protestors | June 1st
@@ -4100,6 +4370,21 @@ id: mo-florissant-2
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
+
+
+### Police shove, pepper spray, and arrest protestors | July 5th
+
+Footage shows police using shields and batons to shove protestors. Protestors attempting to flee are pepper sprayed. At least one protestor is tackled to the ground and arrested. Police continue pushing protestors out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
+
+tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, protestor
+
+id: mo-florissant-4
+
+**Links**
+
+* https://twitter.com/xshularx/status/1279961776050917376
+* https://twitter.com/xshularx/status/1279970172955230210
+* https://twitter.com/Ohun_Ashe/status/1280150603839295490
 
 
 ### Police shoot at protestors in designated protest area | July 6th
@@ -5713,6 +5998,55 @@ id: ny-newyorkcity-54
 * https://twitter.com/protest_nyc/status/1282480090702655492
 
 
+### Police make violent arrests on Brooklyn Bridge | July 16th
+
+During a July 16th protest on the Brooklyn Bridge, police made a series of violent arrests, including shoving, tackling, striking and kneeling on protestors. In addition, the end of the first clip shows a protestor with a shoe tied around her mouth. The second clip shows several officers holding a protestor off the ground; one officer holds the protestor by her hair.
+
+tags: shove, tackle, strike, kneel, arrest, inhumane-treatment
+
+id: ny-newyorkcity-94
+
+**Links**
+
+* https://twitter.com/itsme__AG/status/1284188603292295168
+* https://mobile.twitter.com/awilli33/status/1283440443909459968
+
+
+### BLM Protestor beaten and arrested after scuffle with pro-police protestors | July 16th
+
+After a scuffle between Pro-Police and BLM protestors, police single out black protestor, punch him, tackle him to the ground, and arrest him. No pro-police protestors were arrested. It is unclear who instigated the interaction, but additional footage does show a pro-police protestor shoving BLM supporters.
+
+The individual has been charged with inciting a riot, attempted assault, disorderly conduct, and harassment.
+
+tags: tackle, punch, arrest, abuse-of-power, protestor
+
+id: ny-newyorkcity-96
+
+**Links**
+
+* https://twitter.com/SABehar/status/1283789318335668226
+* https://twitter.com/SABehar/status/1283787741466169344
+* https://qns.com/story/2020/07/14/harassment-spitting-and-assault-inside-the-ugly-bedlam-at-bayside-protests
+* https://www.instagram.com/p/CCjjt_YF6sT
+
+
+### Homeless man arrested and hospitalized during clearing of OccupyCityHall | July 22nd
+
+Around 7 AM during the sudden clearing of OccupyCityHall protestors, a homeless man who had been receiving food and aid at OccupyCityHall was violently arrested by police. Footage shows multiple officers holding him down while others prevent protestors from approaching and filming the arrest.
+
+He was later taken away in an ambulance, but the nature of his injuries is unclear.
+
+tags: homeless, arrest, protestor
+
+id: ny-newyorkcity-95
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1285891685608820738
+* https://twitter.com/protest_nyc/status/1285897625716350976
+* https://twitter.com/protest_nyc/status/1285900885957255168
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
@@ -5835,6 +6169,25 @@ id: nc-charlotte-3
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
+## Gastonia
+
+### Police with live ammo arrest protestors sitting in cars | July 22nd
+
+Footage shows militarized police with long guns carrying live ammo running up on protestors. Black protestors are removed from their vehicles and arrested.
+
+According to the senior editor of the Triad City Beat, an NC news outlet, police arrested these protestors after an alleged dispute between BLM protestors and an older white couple, in which the couple allegedly pulled a gun and knife on protestors. According to the reporter, only protestors were charged with any offenses.
+
+tags: abuse-of-power, threaten, arrest, gun
+
+id: nc-gastonia-1
+
+**Links**
+
+* https://twitter.com/jordangreentcb/status/1286110757223006208
+* https://twitter.com/jordangreentcb/status/1286110760284893184
+* https://twitter.com/jordangreentcb/status/1286110761727787009
+
+
 ## Raleigh
 
 ### Police fire tear gas at peaceful protests | May 30th
@@ -5849,6 +6202,7 @@ id: nc-raleigh-2
 
 * https://www.newsobserver.com/news/local/article243114301.html
 * https://twitter.com/vizjourno/status/1266954106998009857
+* https://twitter.com/vizjourno/status/1267494648680976395
 
 
 ### Police use tear gas to clear road | May 31st
@@ -6230,13 +6584,29 @@ id: oh-cleveland-3
 
 Images of a protester who was shot with a rubber bullet in the head.
 
-tags: rubber-bullets, protestor
+tags: rubber-bullets, protestor, shoot
 
 id: oh-cleveland-4
 
 **Links**
 
 * https://twitter.com/LUVRGRLLANI/status/1266866301001179136
+
+
+### Protestor shot in the eye with pellet round | May 30th
+
+Footage shows a protestor show in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protestor's eye. Another image from the protestor shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
+
+tags: shoot, protestor, bean-bag
+
+id: oh-cleveland-5
+
+**Links**
+
+* https://www.youtube.com/watch?v=BYOKsLpsP4Y
+* https://twitter.com/OGJohnTee/status/1283816646864523264
+* https://twitter.com/OGJohnTee/status/1283816652199669765
+* https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
 ## Columbus
@@ -6726,6 +7096,22 @@ id: or-eugene-1
 
 * https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
 * [Direct link to video](https://streamable.com/9h2tk3)
+
+
+## Everett
+
+### Protestor arrested after dangling doughnut in front of officers | July 17th
+
+Footage shows a protestor dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protestor. The protestor tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protestor, stating, "It's time for you to go," evidently arresting the protestor. Another officer states that the protestor "assaulted a lieutenant." This same officer threatens other protestors to back off or they will go to jail. His badge number is covered by a piece of tape. Protestors then follow police to the entrance of a building where the original protestor is being cuffed. Protestors and counter-protestors then argue with one another.
+
+tags: arrest, abuse-of-power, shove, protestor, threaten, hide-badges
+
+id: or-everett-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1284628789134229504
+* https://www.youtube.com/watch?v=iLHv642byAc
 
 
 ## Portland
@@ -7617,6 +8003,22 @@ id: or-portland-69
 * https://twitter.com/whittlingbabe/status/1282372585984978944
 
 
+### Journalist shot by federal officers | July 11th
+
+Footage shows federal officers rolling tear gas canisters into a crowd. Officers also fire less-lethal munitions, at least one of which strikes the filmer, a photographer.
+
+tags: journalist, protestor, shoot, projectile, tear-gas
+
+id: or-portland-124
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1283549043864428544
+* https://twitter.com/MathieuLRolland/status/1283549985905074176
+* https://twitter.com/MathieuLRolland/status/1283553584458502144
+* https://twitter.com/MathieuLRolland/status/1283554123808272384
+
+
 ### Police fire tear gas and riot rounds at peaceful protestors | July 12th
 
 Protestors are gathered around the Portland Justice Center. Police and Federal agents are massed in a Justice Center doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
@@ -7839,6 +8241,8 @@ id: or-portland-74
 
 Federal agents approach a small group of protestors on the sidewalk. They seize a protestor, place them in an unmarked car, and drive off. They make no attempt to identify themselves, to read the protestor their rights, or to state the charges against the protestor.
 
+Additional footage and news establish that this is a pattern of behavior, not an isolated incident.
+
 tags: arrest, abuse-of-power
 
 id: or-portland-77
@@ -7846,13 +8250,1283 @@ id: or-portland-77
 **Links**
 
 * https://twitter.com/matcha_chai/status/1283328232033411072
+* https://twitter.com/sparrowmedia/status/1283605418883899397
+* https://www.opb.org/news/article/federal-law-enforcement-unmarked-vehicles-portland-protesters/
+
+
+### Officer leaving Justice Center shoves protestor and threatens with gun | July 15th
+
+An officer in street clothes is leaving the Justice Center through the garage, possibly at the end of his shift. A protestor runs across the street and blocks the truck's path. The protestor and officer argue for a moment, then the officer exits his vehicle, charges the protestor and shoves him to the ground. The protestor then approaches and shoves the truck door. The officer then brandishes a sidearm, shouting, "I'm a fucking cop. I will fucking shoot you. Back the fuck off."
+
+tags: vehicle, gun, protestor, shove
+
+id: or-portland-78
+
+**Links**
+
+* https://clips.twitch.tv/CooperativeFlirtyLouseTriHard
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hsgfyz/plane_clothes_cop_pulls_gun_on_protesters_in/
+
+
+### Police tackle protestor off bike and into lightpole | July 16th
+
+Footage shows a protestor riding down the street. He appears to say something to an officer on the far side of the street. Then an officer in the intersection tackles him to the ground, kneels on him and arrests him.
+
+tags: protestor, tackle, arrest, knee
+
+id: or-portland-86
+
+**Links**
+
+* https://twitter.com/DanMcKATU/status/1283748895600721920
+* https://twitter.com/DanMcKATU/status/1283822343081431040
+* https://tuckbot.tv/#/watch/hsgl9a
+* https://video.twimg.com/ext_tw_video/1283748858820882432/pu/vid/640x360/2Tkb9BcfYRsnp7yQ.mp4?tag=10
+
+
+### Police and Federal Agents deploy tear gas, pepper balls and flashbangs in half hour push along 3rd Avenue | July 16th
+
+Shortly before midnight on July 16th, police and federal agents began a lengthy push to move protestors North along 3rd avenue from the Justice Center, up past Salmon St. Police and federal agents deployed tear gas and flashbangs and shot pepper balls for the majority of this push. In the second clip, an LRAD's dispersal function can be heard.
+
+Footage was taken by multiple journalists at different angles throughout the incident. Footage is in chronological order for each filmer, but not overall.
+
+This incident covers the broad incident - deployment of riot munitions against peaceful protestors - while incidents 80, 81 and 82 cover specific acts of violence.
+
+tags: tear-gas, flashbangs, pepper-bullets, shoot, lrad
+
+id: or-portland-79
+
+**Links**
+
+* https://twitter.com/lorenajw_x/status/1284019566864035840
+* https://twitter.com/lorenajw_x/status/1284022090350227456
+* https://twitter.com/LindseyPSmith7/status/1284021459413643264
+* https://twitter.com/LindseyPSmith7/status/1284021824745992200
+* https://twitter.com/LindseyPSmith7/status/1284022291248996353
+* https://twitter.com/tuckwoodstock/status/1284013508892299264
+* https://twitter.com/tuckwoodstock/status/1284015840359137281
+* https://twitter.com/tuckwoodstock/status/1284017726487314433
+* https://twitter.com/tuckwoodstock/status/1284018611254788097
+* https://twitter.com/tuckwoodstock/status/1284021127044423683
+* https://twitter.com/MrOlmos/status/1284021348671488001
+* https://twitter.com/MrOlmos/status/1284023309911224321
+
+
+### Protestor shows wound left by less-lethal round | July 16th
+
+Initial footage shows protestors carrying a wounded man to safety. Medics come to treat him and give him an inhaler. A reporter later states he is a homeless man who was at the Riot Ribs mutual aid station.
+
+He shares his experience with another reporter in English and Spanish, stating that he was crossing the crosswalk as part of the protest when he was shot. He states he has asthma and also is now suffering pain whenever he moves his right arm.
+
+tags: homeless, protestor, projectile
+
+id: or-portland-80
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1284020482556047360
+* https://twitter.com/tuckwoodstock/status/1284017153448927233
+* [English](https://twitter.com/MrOlmos/status/1284026649055383552)
+* [Spanish](https://twitter.com/MrOlmos/status/1284027312254509057)
+
+
+### Bystander recounts experience being tear-gassed while walking home | July 16th
+
+A man interviewed by a journalist says he was walking home and saw a small group of police. He says he was shot at and struck by police with tear gas. He says that now he is standing among the protestors to understand what's going on.
+
+tags: bystander, tear-gas
+
+id: or-portland-81
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1284025326612254720
+
+
+### Protestor and reporter struck by impact munitions | July 16th
+
+At the beginning of the series of events in or-portland-79, police and federal agetns fire pepper balls and tear gas. Footage clearly shows a protestor struck by a round, who then retreats. In a second video, the filmer, a journalist, is hit in the ankle.
+
+tags: protestor, journalist, tear-gas, shoot, projectile
+
+id: or-portland-82
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1284017462162276353
+* https://twitter.com/MrOlmos/status/1284017462162276353
+
+
+### Police charge, strike and arrest protestors | July 16th
+
+Footage uploaded shortly before midnight on July 16th shows police and protestors standing off. Without warning, police charge at protestors, striking, shoving and arresting them.
+
+tags: protestor, strike, tackle, shove, arrest
+
+id: or-portland-83
+
+**Links**
+
+* https://twitter.com/Or_St14/status/1284015646880104449
+
+
+### Medic shows rubber bullet wound | July 16th
+
+Images from a medic show a bruise left a rubber bullet on July 16th. Other images of the medic consistently show them wearing marked clearly as a medic, like [here](https://twitter.com/peyhubbard/status/1285369254234083330?s=20)
+
+tags: medic, shoot, projectile
+
+id: or-portland-122
+
+**Links**
+
+* https://twitter.com/peyhubbard/status/1284784447225618435
+
+
+### Police fire second round of tear gas at protestors | July 17th
+
+Shortly after midnight on the morning of July 17th, about two hours after the last round of tear gas and munitions, police and federal agents fire tear gas and impact munitions at protestors for a second time.
+
+Protestors appear to be standing spread out with their hands up when police and federal agents begin firing.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-84
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1284054261899247617
+* https://twitter.com/MrOlmos/status/1284057651358228480
+
+
+### Police shove protestors down street | July 17th
+
+Footage taken shortly after midnight shows police giving dispersal orders to protestors, then using batons to shove them down the street. Several protestors are seen knocked to the ground.
+
+The second clip shows police suddenly charging at protestors and shoving them. Several arrests are made, during which police appear to kneel on detainees.
+
+Additional footage shows alternate angles of the charge.
+
+tags: protestor, baton, shove, arrest, knee
+
+id: or-portland-85
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284032499832651778
+* https://twitter.com/GriffinMalone6/status/1284033524043878403
+* https://twitter.com/GriffinMalone6/status/1284038506679955456
+* https://twitter.com/GriffinMalone6/status/1284039535223955457
+
+
+### Police break windows of car, then ram car when it reverses | July 17th
+
+Footage shows police speaking to a driver in a stopped car behind the police line. The road was supposed to be closed, so it is unclear how the driver came to be there. One reporter suggests the car was trapped behind the police line after police pushed protestors down the street. The car edges forward slightly and police halt it, screaming. They then bash the windows of the car with batons. The car reverses and attempts to flee, but is rammed by a police vehicle.
+
+tags: vehicle, property-destruction, bystander
+
+id: or-portland-87
+
+**Links**
+
+* https://twitter.com/PDXRosieRiddle/status/1284020202145902593
+* https://twitter.com/PDXRosieRiddle/status/1284020202145902593
+
+
+### Federal officers tear gas protestors outside Justice Center | July 17th
+
+Footage uploaded a few hours before midnight on July 17th shows widespread use of tear gas against protestors outside the Justice Center. A reporter on the scene alleges all tear gas was fired by federal officers.
+
+The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
+
+tags: tear-gas, protestor
+
+id: or-portland-92
+
+**Links**
+
+* https://twitter.com/alex_zee/status/1284357333993152513
+
+
+### Police and federal officers arrest protestor writing in chalk | (Believed to be) July 17th
+
+Footage shows approximately a dozen police and federal officers emerging from a building and approaching a protestor writing in chalk. The protestor stands to flee and is tackled to the ground by the officers. The individual is then arrested. The protestor had a dog, whose leash is held by a federal officer.
+
+tags: arrest, protestor, abuse-of-power, tackle
+
+id: or-portland-107
+
+**Links**
+
+* https://twitter.com/JuniperLSimonis/status/1284575697168560129
+* https://twitter.com/JuniperLSimonis/status/1284574919934660608
+* https://twitter.com/JuniperLSimonis/status/1284573413625851904
+* https://www.reddit.com/r/PublicFreakout/comments/htqo1j/13_cops_vs_1_graffiti_guy/
+
+
+### Police charge at and trample protestors | July 18th
+
+Early in the morning on July 18th, police give a dispersal order and walk protestors down the street. Protestors appear to be complying. Police then charge without warning and treat protestors violently. Police are seen shoving, dragging, throwing and striking protestors.
+
+tags: strike, shove, throw, push, protestor
+
+id: or-portland-88
+
+**Links**
+
+* https://twitter.com/alex_zee/status/1284357164396457984
+* https://twitter.com/alex_zee/status/1284357260374753280
+* https://twitter.com/alex_zee/status/1284415698123386882
+* https://twitter.com/PDocumentarians/status/1284359848763645952
+
+
+### Police repeatedly shove protestor | July 18th
+
+Footage from early on July 18th shows police repeatedly shoving a protestor on the sidewalk. Police appear to be walking the protestors backwards and while the protestor was not walking quickly, he was obeying the police order.
+
+tags: shove, protestor
+
+id: or-portland-90
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284430958142210147
+
+
+### Federal agents fire tear gas and impact munitions at crowd | July 18th
+
+Footage uploaded around 2 AM on July 18th shows federal agents firing tear gas and impact munitions at scattered protestors.
+
+Additional footage shows flashbangs used at that time. In addition, a reporter claims a flashbang exploded on his foot.
+
+tags: shoot, projectile, tear-gas, protestor, flashbangs, journalist
+
+id: or-portland-91
+
+**Links**
+
+* https://twitter.com/alex_zee/status/1284411261719994368
+* https://twitter.com/alex_zee/status/1284411261719994368
+* https://twitter.com/GriffinMalone6/status/1284412587367559168
+* https://twitter.com/GriffinMalone6/status/1284409361800945665
+
+
+### Police chase, shove and punch protestors | July 18th
+
+Footage shows police chasing protestors while a dispersal order is being given. At various points during the footage, police can be seen striking, punching and shoving protestors.
+
+tags: shove, strike, punch, push, protestor
+
+id: or-portland-93
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284430729477099520
+
+
+### Police gas and shoot protestors early in the morning | July 18th
+
+Footage uploaded around 4 AM PST shows a small cluster of protestors, approximately 50, fleeing down the street from gas launched by federal agents. It appears to be tear gas, by the continual coughing of protestors, but smoke grenades were also deployed at other times in the night. Towards the end of the footage, riot guns can be heard firing.
+
+tags: shoot, gas, projectile, protestor
+
+id: or-portland-94
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284445097329717248
+
+
+### Police shove protestors obeying directions | July 18th
+
+Footage shows a police line marching protestors down the street. All protestors appear to be following police direction. However, some protestors move slower and are shoved by police. Police also brandish their batons while threatening protestors to move faster. Batons are used to shove protestors to the ground on multiple occasions. Towards the end of the footage, one protestor is thrown to the ground and struck with a baton.
+
+tags: strike, shove, push, baton, threaten, protestor
+
+id: or-portland-95
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1284420156760834050
+
+
+### Police and federal agents fire impact munitions at crowd | July 18th
+
+Footage shows police and federal agents working together to push protestors down the street. Continual riot gun fire is heard throughout the footag at a peaceful crowd wherein most protestors have their hands raised. The reporter who took the footage does state that the majority of fire followed procedure (i.e. at the feet), but police were still firing on a peaceful, obeying crowd.
+
+tags: shoot, protestor, pepper-ball, rubber-bullet
+
+id: or-portland-96
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1284462376624877568
+
+
+### Police officer hurls protestor to the ground | July 18th
+
+Footage shows a police officer grabbing a protestor by the collar and hurling him to the ground.
+
+tags: protestor, shove, throw, grab
+
+id: or-portland-89
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1284414146373578752
+
+
+### Protest struck repeatedly and pepper-sprayed | July 18th
+
+A protestor standing still is struck repeatedly by an officer with a baton. Another officer then pepper sprays him. The man then gives the officers the finger and walks away.
+
+The protestor later tweeted that a surgeon has splinted it, but he will require an operation on Friday (presumed to be July 24th).
+
+tags: protestor, baton, strike, beat, pepper-spray, spray
+
+id: or-portland-97
+
+**Links**
+
+* https://twitter.com/thechadallan/status/1284749219857760256
+* https://twitter.com/greg_doucette/status/1284735073057746944
+* https://twitter.com/Tazerface16/status/1284849286237151232
+* https://twitter.com/peyhubbard/status/1285369254234083330
+
+
+### Two USNA graduates pepper sprayed | July 18th
+
+First person footage from one of two US Naval Academy graduates shows the graduates approaching federal officers, standing still several feet away. Tear gas rolls into view. Officers then shove the protestors and pepper spray them without warning.
+
+tags: protestor, pepper-spray, spray, tear-gas, shove
+
+id: or-portland-139
+
+**Links**
+
+* https://www.youtube.com/watch?v=OmAdEp6pAp4
+
+
+### Federal officers fire on Moms Against Police Brutality | July 18th
+
+A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
+
+tags: protestor, shove, flashbang, pregnant
+
+id: or-portland-98
+
+**Links**
+
+* https://twitter.com/lamestreamtv/status/1284759765156073474
+* https://twitter.com/LindseyPSmith7/status/1284725756539490304
+* https://twitter.com/RawStory/status/1284946948227829764
+* https://twitter.com/JoshuaPotash/status/1284759405783912452
+
+
+### Journalist shows wound from impact munition | July 18th
+
+A journalist shows a bloody wound on her leg from a undetermined impact munition. She states she is wearing a bress badge and yellow vest.
+
+tags: journalist, shoot, projectiole
+
+id: or-portland-99
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1284410083661582337
+
+
+### Police charge and tear gas protestors | July 18th
+
+Footage shows the end of a dispersal as police chase fleeing protestors. They hurl several tear gas canisters. One protestor is helped to their feet by others; an officer runs up to the group and shoves them.
+
+tags: shove, push, tear-gas, tear-gas-canister, protestor
+
+id: or-portland-100
+
+**Links**
+
+* https://twitter.com/tuckwoodstock/status/1284730852404899840
+
+
+### Police charge protestors | July 18th
+
+Footage shows police rushing at protestors. Several protestors are tackled and shoved to the ground. The reporter filming states that at least one bike was confiscated.
+
+tags: protestor, shove, push, tackle, property-destruction
+
+id: or-portland-101
+
+**Links**
+
+* https://twitter.com/tuckwoodstock/status/1284734198926852097
+
+
+### Police drop gas out window | July 18th
+
+Footage from outside the Justice Center shows police or federal agents dropping a gas canister out a window of the barricaded Justice Center. It is unclear if the gas is smoke or CS. Protestors were some distance from the entrance and no officers were outside the Justice Center.
+
+tags: gas, protestor
+
+id: or-portland-102
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1284382114067017728
+
+
+### Police shoot and gas protestors | July 18th
+
+Footage from 3rd and Main in Portland shows police dispersing tear gas. In addition, riot rounds can be heard fired. In the second clip, an officer indiscriminately pepper sprays the area, though no protestors are within range.
+
+tags: tear-gas, shoot, projectile, pepper-spray, spray, protestor
+
+id: or-portland-103
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1284356286469955584
+* https://twitter.com/defendpdx/status/1284357202866663425
+
+
+### Federal officers tear gas protestors outside Justice Center | July 18th
+
+Footage taken outside the Justice Center shows federal agents shoving protestors and firing off tear gas. In the second clip, a protestor with a leaf blower helps get tear gas off protestors; flashbangs can be heard during this footage.
+
+tags: tear-gas, shove, protestor, flashbangs
+
+id: or-portland-104
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1284726076124524544
+* https://twitter.com/LindseyPSmith7/status/1284726641193652225
+* https://twitter.com/LindseyPSmith7/status/1284727105121443840
+
+
+### Federal officers tear gas protestors outside Justice Center a second time | July 18th
+
+Footage shows federal officers outside the Justice Center firing tear gas at protestors. Munitions recovered during the incident also show police fired smoke grenades.
+
+Police also used flashbangs.
+
+tags: tear-gas, protestor, flashbangs
+
+id: or-portland-105
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1284729433329332226
+* https://twitter.com/LindseyPSmith7/status/1284733851344834560
+* https://twitter.com/ImJeniferAntifa/status/1284730575807320064
+* [Smoke canister](https://twitter.com/LindseyPSmith7/status/1284730741377519618)
+* [Additional munitions](https://twitter.com/LindseyPSmith7/status/1284737866447253505)
+
+
+### Police shove legal observer | July 18th
+
+Footage shows protestors retreating at direction of a police line. One legal observer is shoved to the ground on camera. A protestor is seen lying in the street. A medic approaches to aid the protestor, but it is unclear what caused the protestor's injury.
+
+tags: legal-observer, protestor, shove
+
+id: or-portland-106
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1284888506486095872
+
+
+### Police arrest snack van driver; threaten car behind | July 19th
+
+Early in the morning on July 19th, police arrest the driver of the Snack Van, a protestor vehicle that distributes food to other protestors. Police apparently arrested the driver without letting him put the van in park, as the vehicle rolls forward into a dumpster.
+
+An officer approaches a car behind the Snack Van and appears to say, "You're next. If I see you again, I'm blowing out your tires."
+
+tags: arrest, protestor, threaten, abuse-of-power
+
+id: or-portland-108
+
+**Links**
+
+* https://twitter.com/ekkabeen/status/1284454435473637377
+
+
+### Federal agents shoot at protestors behind fence | July 19th
+
+Footage shows protestors and federal agents separated by a chain-link fence. Protestors are shouting at officers. Riot guns can be heard firing at protestors.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-109
+
+**Links**
+
+* https://twitter.com/DonovanFarley/status/1285098045235838976
+
+
+### Journalist displays wound received | July 19th
+
+A journalist shows a wound he received from an impact munition while filming embedded in the crowd. He states he was holding his press badge up.
+
+He states he received medical care, but had trouble breathing and left the protest for the night.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-110
+
+**Links**
+
+* https://twitter.com/DonovanFarley/status/1285106726740480002
+* https://twitter.com/DonovanFarley/status/1285107209085480960
+* https://twitter.com/DonovanFarley/status/1285109811298791424
+* https://twitter.com/DonovanFarley/status/1285116792583544833
+
+
+### Federal agents fire tear gas, impact munitions and flashbangs at protestors | July 19th
+
+Footage from the evening of July 19th shows the initial push by federal officers to move protestors away from the Justice Center. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protestors, pushing them into the park and down the street. Victims include protestors, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
+
+tags: protestor, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
+
+id: or-portland-111
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285107328312766465
+* https://twitter.com/hungrybowtie/status/1285107667917107201
+* https://twitter.com/hungrybowtie/status/1285108298719477761
+* https://twitter.com/hungrybowtie/status/1285113213210615809
+* https://twitter.com/hungrybowtie/status/1285112380532289538
+* https://twitter.com/hungrybowtie/status/1285110834394324992
+* https://twitter.com/sunnymok/status/1285107616096501761
+* https://twitter.com/EricWasserman1/status/1285107536069189632
+* https://twitter.com/RPeavyhouse/status/1285109223857123333
+* https://twitter.com/ASeattleStoner/status/1285109636803162113
+* https://twitter.com/suzettesmith/status/1285105347150020609
+* https://twitter.com/suzettesmith/status/1285105690030178304
+* https://twitter.com/GriffinMalone6/status/1285106154066939905
+* https://twitter.com/GriffinMalone6/status/1285105087455481856
+* https://www.youtube.com/watch?v=9YFc2rc60DU
+
+
+### Federal agents continue to push protestors | July 20th
+
+In the second part of a push by Federal agents, after a lull ending or-portland-111, officers resumed pushing protestors down the street. They continued to deploy tear gas, pepper balls, rubber bullets and flashbangs in an effort to move the protest down the street.
+
+Tear gas engulfed the Riot Ribs mutual aid tents which provided food, water, medical aid and other supplies to protestors and homeless folks in the area.
+
+tags: protestor, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang, property-destruction, medic
+
+id: or-portland-112
+
+**Links**
+
+* https://twitter.com/Clypian/status/1285110508153012224
+* https://twitter.com/MrOlmos/status/1285111874694987776
+* https://twitter.com/MrOlmos/status/1285112502150246401
+* https://twitter.com/LindseyPSmith7/status/1285113340168044544
+* https://twitter.com/LindseyPSmith7/status/1285113574516355072
+* https://twitter.com/LindseyPSmith7/status/1285115720179671041
+
+
+### Federal officer fire tear gas during retreat, filmer shot in hand | July 20th
+
+After the push in or-portland-112, federal officers began to retreat from the crowd, firing tear gas and other impact munitions. Footage shows an explosive projectile striking the filmer in the hand before the footage ends.
+
+tags: protestor, shoot, projectile, tear-gas, explosive
+
+id: or-portland-113
+
+**Links**
+
+* https://twitter.com/PDXAndy_/status/1285111515897421825
+
+
+### Federal officers fire tear gas and pepper balls at protestors | July 20th
+
+Protestors with hands up are seen opposite the Justice Center around 1 AM PST. Clouds of tear gas are seen on the street. Additional munitions can be heard throughout the footage.
+
+tags: protestor, shoot, tear-gas, pepper-ball
+
+id: or-portland-116
+
+**Links**
+
+* https://twitter.com/SmileItsNathan/status/1285120572779663362
+
+
+### Federal officers fire tear gas and impact munitions at protestors; shoot journalist | July 20th
+
+Footage from a journalist shows officers firing tear gas and impact munitions down the street at protestors. At 7:05, the journalist is shot in the stomach with an impact munition. He is standing well away from protestors and states he has written "press" clearly on his helmet.
+
+tags: protestor, journalist, shoot, projectile, tear-gas
+
+id: or-portland-114
+
+**Links**
+
+* [7:05](https://twitter.com/i/broadcasts/1MnxndjVOQXGO)
+
+
+### Indiscriminate tear gas after protestors light small fire | July 20th
+
+After protestors allegedly lit a small fire, federal officers fired tear gas indiscriminately into the park, though according to the poster, most protestors were not in the park. Footage shows substantial clouds of tear gas with no protestors nearby.
+
+tags: protestor, tear-gas
+
+id: or-portland-115
+
+**Links**
+
+* https://twitter.com/Clypian/status/1285134827990036480
+
+
+### Journalist shot in leg | July 20th
+
+First-person footage shows a journalist groaning in pain after he is shot. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-117
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1285405004883468294
+* https://twitter.com/SmileItsNathan/status/1285106514374594560
+* https://twitter.com/SmileItsNathan/status/1285107709537329159
+
+
+### Federal officers retaliate to protestors with tear gas, flashbangs and impact munitions | July 21st
+
+After a small group of protestors damaged the plywood barricade on the Justice Center doors around 12:30 AM PST, federal agents emerged from the Justice Center and deployed a variety of riot control munitions against all protestors for a period lasting about half an hour. These munitions include tear gas, flashbangs and unknown less-lethal projectiles.
+
+Prior to emerging, officers dropped a tear gas canister out of a window in the barricade, seen [here](https://twitter.com/ByMikeBaker/status/1285465270685859841).
+
+One reporter [states](https://twitter.com/ByMikeBaker/status/1285465270685859841) he was shoved by an officer, but does not have any supporting footage.
+
+[This footage](https://twitter.com/MrOlmos/status/1285480573981491203) from reporter Sergio Olmos shows officers grabbing protestors who are passively resisting and brandishing batons at others. This footage also shows a protestor using a leafblower to redirect tear gas.
+
+[This footage](https://twitter.com/defendpdx/status/1285481849372831749) shows officers throwing explosives at a protestor attempting to collect garbage from the street.
+
+It appears that protestors did damage part of the plywood barricade around the Justice Center doors, seen [here](https://twitter.com/ByMikeBaker/status/1285482389628583936).
+
+An [image](https://twitter.com/ProudBulba/status/1285671820637732867) from a protestor shows a wound received allegedly at this protest. The protestor also displays the projectile that hit her, a pepper ball.
+
+Additional [footage](https://twitter.com/45thabsurdist/status/1285498471521239040) shows a car with an explosive projectile fizzling underneath it. Protestors rally to put it out, preventing further damage.
+
+tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor, pepper-ball, property-destruction
+
+id: or-portland-118
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1285465270685859841
+* https://twitter.com/ByMikeBaker/status/1285477503117561858
+* https://twitter.com/ByMikeBaker/status/1285478671248023554
+* https://twitter.com/ByMikeBaker/status/1285482389628583936
+* https://twitter.com/defendpdx/status/1285481849372831749
+* https://twitter.com/defendpdx/status/1285486308123525126
+* https://twitter.com/MrOlmos/status/1285479219691089920
+* https://twitter.com/MrOlmos/status/1285480573981491203
+* https://twitter.com/MrOlmos/status/1285480986340241408
+* https://twitter.com/MrOlmos/status/1285481220789305344
+* https://twitter.com/MrOlmos/status/1285481904444026880
+* https://twitter.com/MrOlmos/status/1285503837046882304
+* https://twitter.com/hungrybowtie/status/1285489228567068673
+* https://twitter.com/hungrybowtie/status/1285491268651376640
+* https://twitter.com/hungrybowtie/status/1285491599842000897
+* https://twitter.com/hungrybowtie/status/1285491952218075139
+* https://twitter.com/hungrybowtie/status/1285493876032106498
+* https://twitter.com/ProudBulba/status/1285671820637732867
+* https://twitter.com/ProudBulba/status/1285490892011212800
+* https://twitter.com/45thabsurdist/status/1285498471521239040
+
+
+### Indiscriminate shooting of less-lethal projectiles | July 21st
+
+Footage shows a federal officer firing a riot gun with a paintball frame - like a pepper ball round - at protestors gathered on the far side of the street. Some protestors are crouched behind signs and umbrellas, but there is no evident threat to the officer.
+
+tags: shoot, projectile, protestor
+
+id: or-portland-119
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1285485252794699776
+
+
+### Federal officers shoot at reporter | July 21st
+
+Footage shows federal officers shooting at a woman wearing a yellow press vest, a helmet labeled PRESS, and carrying a press badge. After she is shot at, other journalists and protestors shout that she is press.
+
+Officers also continue to fire tear gas throughout this incident.
+
+tags: shoot, journalist, projectile, tear-gas
+
+id: or-portland-120
+
+**Links**
+
+* [First person footage by journalist shot at](https://twitter.com/defendpdx/status/1285509358806134785)
+* [Third person footage](https://twitter.com/PDocumentarians/status/1285510200514842627)
+
+
+### Federal officers retaliate to fire and thrown water bottles | July 21st
+
+After protestors light small fire and throw water bottles at Justice Center around 2:30 AM PST, federal police emerge and fire various munitions at protestors. These munitions include tear gas, impact munitions and flashbangs.
+
+Footage from [here](https://twitter.com/defendpdx/status/1285513893146619904) and [here](https://twitter.com/defendpdx/status/1285515077848666113) shows protestors returning to food and supply stations in the park after police retreated. Tables have been overturned and much of the supplies have been destroyed.
+
+Footage [here](https://twitter.com/ByMikeBaker/status/1285520992278700033) shows protestors assessing munitions. Among others, there appear to be a Stinger grenade, a type of flashbang that also contains rubber pellets, and a foam bullet.
+
+Footage [here](https://twitter.com/MrOlmos/status/1285516804983361538) shows an interview with two medics, discussing the situation and the return of Riot Ribs after the tear gas.
+
+tags: shoot, flashbangs, projectile, tear-gas, protestor, property-destruction, foam-bullets
+
+id: or-portland-121
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1285509636666175488
+* https://twitter.com/ByMikeBaker/status/1285510986288427008
+* https://twitter.com/ByMikeBaker/status/1285520992278700033
+* https://twitter.com/defendpdx/status/1285511157642493953
+* https://twitter.com/defendpdx/status/1285513893146619904
+* https://twitter.com/defendpdx/status/1285515077848666113
+* https://twitter.com/PDocumentarians/status/1285514603699433472
+* https://twitter.com/PDocumentarians/status/1285521043453435905
+* https://twitter.com/MrOlmos/status/1285516804983361538
+* https://twitter.com/MrOlmos/status/1285512925252214784
+* https://twitter.com/MrOlmos/status/1285512443779637248
+* https://twitter.com/MrOlmos/status/1285511558768939010
+* https://twitter.com/MrOlmos/status/1285508110086311936
+
+
+### Federal officers shove protestors, pepper spray journalist | July 21st
+
+Footage shows federal officers shoving protestors with their hands up to clear space around the Justice Center. A journalist stands among the protestors. The journalist is pepper sprayed.
+
+tags: shove, protestor, journalist, pepper-spray, spray
+
+id: or-portland-123
+
+**Links**
+
+* https://twitter.com/itsmikebivins/status/1285480935098667008
+* https://twitter.com/itsmikebivins/status/1285486725406457856
+
+
+### Federal officers use tear gas to push protestors | July 21st
+
+Shortly before midnight on July 21st, federal officers used a variety of munitions to push protestors away from the Justice Center. Munitions include flashbangs, tear gas and impact munitions.
+
+The footage shows a push back and forth between federal officers and a shield wall of protestors, ending in protestors deploying fireworks and smoke to push federal officers back into the Justice Center.
+
+tags: shoot, projectile, protestor, flashbang, tear-gas, journalist, legal-observer
+
+id: or-portland-125
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1285821216280829952
+* https://twitter.com/GriffinMalone6/status/1285822445853700096
+* https://twitter.com/GriffinMalone6/status/1285823868234461186
+* https://twitter.com/PDocumentarians/status/1285827565458866176
+* https://twitter.com/PDocumentarians/status/1285828122122702849
+* https://twitter.com/PDocumentarians/status/1285856056275374081
+* https://twitter.com/MrOlmos/status/1285826031689949184
+* https://twitter.com/MrOlmos/status/1285827707738091520
+
+
+### Flashbang thrown at press and legal observers | July 21st
+
+Footage from shortly before midnight on July 21st shows press and legal observers hit by a flashbang, as well as a protestor shot by a projectile.
+
+tags: shoot, projectile, protestor, flashbang, journalist, legal-observer
+
+id: or-portland-126
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1285854874500911104
+
+
+### Moms Against Police Brutality tear-gassed | July 21st
+
+Right before midnight on July 21st, federal officers fired tear gas at the group, Moms Against Police Brutality. The Moms had locked arms and were standing still.
+
+tags: tear-gas, protestor
+
+id: or-portland-130
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285829230958268417
+* https://twitter.com/hungrybowtie/status/1285828096461922304
+* https://twitter.com/hungrybowtie/status/1285827585486671873
+* https://twitter.com/hungrybowtie/status/1285827044119441408
+
+
+### Protestor shoved onto tear gas canister, which then explodes | July 22nd
+
+During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
+
+tags: shove, throw, protestor, tear-gas, tear-gas-canister
+
+id: or-portland-127
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1285848158044483586
+
+
+### Photographer shoved onto their back | July 22nd
+
+Footage from around 1:30 AM outside the Justice Center shows a federal officer shoving an individual to the ground. The individual was standing still and holding a large camera.
+
+tags: journalist, shove
+
+id: or-portland-128
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1285868284684890113
+
+
+### Federal officers use flashbangs, tear gas and impact munitions to push protestors | July 22nd
+
+During a series of events around 1 AM outside the Justice Center, federal officers emerge from the building to douse a small fire lit apparently by protestors. Officers then push protestors back through the park. Protestors eventually push officers back inside the building. Throughout the series of events, officers fire flashbangs, tear gas and less-lethal projectiles liberally.
+
+tags: shoot, projectile, flashbangs, tear-gas, protestor
+
+id: or-portland-129
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285851228732141569
+* https://twitter.com/hungrybowtie/status/1285851909702610944
+* https://twitter.com/hungrybowtie/status/1285852594749898752
+* https://twitter.com/hungrybowtie/status/1285853649613144066
+* https://twitter.com/hungrybowtie/status/1285854373969448961
+* https://twitter.com/MrOlmos/status/1285843187496415232
+* https://twitter.com/MrOlmos/status/1285845548113616896
+* https://twitter.com/MrOlmos/status/1285846065606844416
+* https://twitter.com/MrOlmos/status/1285846763929100288
+* https://twitter.com/MrOlmos/status/1285847403157876736
+* https://twitter.com/MrOlmos/status/1285848206622945286
+* https://twitter.com/PDocumentarians/status/1285829293071757312
+
+
+### Federal officers use flashbangs, tear gas and impact munitions to push protestors a third time | July 22nd
+
+In the final push of the night, federal officers once again used flashbangs, tear gas and less-lethal projectiles to push protestors out of the park. Protestors eventually retook the park, to find officers had destroyed much of the Riot Ribs medical tent, flipping tables and pepper-spraying supplies.
+
+Footage [here](https://twitter.com/defendpdx/status/1285866491275931649) shows officers charging at the crowd, at which point a protestor launched a firework. Officers then continued to deploy riot control munitions.
+
+The officers appear to have exited the building initially because protestors were tearing at the building's plywood barricade.
+
+tags: shoot, projectile, flashbangs, tear-gas, protestor, property-destruction
+
+id: or-portland-131
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1285865757566328832
+* https://twitter.com/defendpdx/status/1285866491275931649
+* https://twitter.com/defendpdx/status/1285869962335117312
+* https://twitter.com/LindseyPSmith7/status/1285862578061627393
+* https://twitter.com/LindseyPSmith7/status/1285862936842403840
+* https://twitter.com/LindseyPSmith7/status/1285869117711368193
+* https://twitter.com/LindseyPSmith7/status/1285868866531323908
+* https://twitter.com/LindseyPSmith7/status/1285871644607524865
+* https://twitter.com/hungrybowtie/status/1285884052570963969
+* https://twitter.com/hungrybowtie/status/1285884713937207297
+* https://twitter.com/hungrybowtie/status/1285886672693899265
+* https://twitter.com/hungrybowtie/status/1285887500871860230
+* https://twitter.com/hungrybowtie/status/1285888600219893760
+* https://twitter.com/MrOlmos/status/1285867497539825665
+* https://twitter.com/MrOlmos/status/1285870949720449029
+* https://twitter.com/MrOlmos/status/1285871373433180160
+* https://twitter.com/MrOlmos/status/1285871712517554178
+* https://twitter.com/MrOlmos/status/1285873682603098112
+* https://twitter.com/MrOlmos/status/1285876102074757120
+* https://twitter.com/MrOlmos/status/1285880435772239873
+
+
+### Federal officers make violent arrest | July 22nd
+
+Footage shows officers approaching a protestor with their hands up. The camera pans away for a moment. When it returns, several officers have tackled the protestor and appear to be striking and kicking them. Another officer approaches the filmer, a journalist, and backs her away.
+
+tags: tackle, kick, strike, arrest, protestor
+
+id: or-portland-132
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1285863778471436288
+
+
+### Federal officers remove individuals from their vehicles | July 22nd
+
+Federal officers stop a car apparently caught between protestors and officers. Officers force the occupants to exit the vehicle. When the protestors become agitated as a result, officers fire flashbangs and push press down the street.
+
+It is unclear what relation, if any, the occupants of the vehicle had to the protest. It is also unclear if the occupants were then arrested.
+
+tags: abuse-of-power, flashbangs, protestor, bystander
+
+id: or-portland-133
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1285872974847897600
+* https://twitter.com/hungrybowtie/status/1285886001932427265
+* https://twitter.com/45thabsurdist/status/1285872314601463808
+
+
+### Federal officers shove protestors, chase journalists | July 22nd
+
+Footage shows federal officers emerging from the Justice Center. A handful of protestors stand at the edge of the sidewalk with their hands up. An officer shoves them into the street. The officer then brandishes his baton and chases nearby journalists, who flee.
+
+tags: abuse-of-power, threaten, shove, protestor, journalist
+
+id: or-portland-134
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285871044851462144
+* https://twitter.com/45thabsurdist/status/1285861571546066944
+
+
+### Journalist shot with rubber bullets | July 22nd
+
+Footage shows federal officers firing into the crowd as they retreat into the Justice Center. During this, the filmer states he was shot by a rubber bullet. An image shows the wound left by the projectile.
+
+tags: journalist, shoot, rubber-bullet
+
+id: or-portland-135
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285832629556637696
+* https://twitter.com/hungrybowtie/status/1285833430769360896
+
+
+### Federal officer tackles two protestors | July 22nd
+
+Footage shows a federal officer running up to two protestors from behind, grabbing them by the neck, then tackling them to the ground. The protestors attempt to clear out. The officer shoves one of those protestors as he tries to stand, then shoves another protestor standing nearby.
+
+tags: protestor, shove, tackle
+
+id: or-portland-136
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1285861227336351744
+
+
+### Livestreamer shot with tear gas canister | July 22nd
+
+First person footage from a livestreamer shows a tear gas canister shot at the livestreamer. It then strikes him. Images show the wound he received.
+
+tags: journalist, tear-gas-canister
+
+id: or-portland-140
+
+**Links**
+
+* https://mobile.twitter.com/chefboykhari/status/1285967763878494213
+* https://mobile.twitter.com/chefboykhari/status/1285968225243561984
+
+
+### Federal officers use excessive force to push protestors | July 22nd
+
+After protestors fire flares and roman candles across the fence, small fires begin in the courtyard. In addition, protestors tear a small breach in the fence.
+
+Federal officers deploy tear gas, flashbangs and impact munitions in massive quantities at protestors separated from them by a fence.
+
+As officers and protestors are separated by a fence, there is little to suggest protestors pose an immediate physical threat to officers at any point.
+
+These events occurred shortly before midnight on the night of July 22nd.
+
+tags: shoot, protestor, projectile, tear-gas, flashbang
+
+id: or-portland-137
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1286192680741949442
+* https://twitter.com/defendpdx/status/1286185530812579841
+* https://twitter.com/MrOlmos/status/1286188028298289153
+* https://twitter.com/MrOlmos/status/1286186098520027136
+* https://twitter.com/LindseyPSmith7/status/1286190257013002240
+* https://twitter.com/LindseyPSmith7/status/1286192268299218944
+* https://twitter.com/LindseyPSmith7/status/1286193128513257474
+* https://twitter.com/TheRealCoryElia/status/1286192484373032960
+* https://twitter.com/tuckwoodstock/status/1286191943270019072
+
+
+### Portland mayor caught in tear gas | July 22nd
+
+Portland mayor Ted Wheeler attended protests on July 22nd alongside protestors. Federal officers fired tear gas into the area, gassing Ted Wheeler. The mayor and other protestors aound him appear to be standing still, causing no damage.
+
+In an interview with a journalist after the gassing, Wheeler states that he saw nothign justifying the response from federal officers. He calls the situation an "egregious overreaction." Less lethal rounds can be heard in the background.
+
+tags: politician, protestor, tear-gas
+
+id: or-portland-142
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286194373739155456
+* https://twitter.com/MrOlmos/status/1286194652513673216
+* https://twitter.com/MrOlmos/status/1286195191745937408
+* [Interview with Ted Wheeler](https://twitter.com/ByMikeBaker/status/1286186731763412993)
+
+
+### Officer throws explosive at reporter | July 22nd
+
+Footage shows an officer lobbing an explosive over the fence, nearly striking the filmer, a reporter. However, the projectile explodes in midair before reaching the journalist.
+
+The journalist refers to the projectile as "a spicy present," where the phrase "spicy" is generally used to refer to tear gas.
+
+
+id or-portland-143
+
+tags: journalist, explosive, projectile
+
+id: or-portland-ncig
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1286185049054879744
+
+
+### Federal officers again use excessive force to push protestors | July 23rd
+
+Approximately one hour after the events of or-portland-137 began, officers again emerged from the Justice Center to douse a small fire and push protestors back usinig tear gas, flashbangs and impact munitions. Officers then continued to push protestors onto Salmon and W 3rd, well past the borders of the Justice Center fence.
+
+tags: shoot, protestor, projectile, tear-gas, flashbang
+
+id: or-portland-138
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1286196710625042441
+* https://twitter.com/LindseyPSmith7/status/1286201158445330432
+* https://twitter.com/LindseyPSmith7/status/1286201466173104128
+* https://twitter.com/tuckwoodstock/status/1286208115336069121
+* https://twitter.com/tuckwoodstock/status/1286218300951650305
+* https://twitter.com/tuckwoodstock/status/1286199532166893574
+
+
+### Federal officers deploy tear gas a second time | July 23rd
+
+Around 3 AM on July 23rd, federal officers deploy tear gas against protestors in the park as protestors had gathered around a statue, allegedly attempting to tear it down.
+
+tags: protestor, tear-gas
+
+id: or-portland-144
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1286239830725124099
+
+
+### Federal officers drag protestor away, fire munitions at crowd to cover | July 23rd
+
+Around 1:30 AM on July 23rd, federal officers are seen scuffling with protestors at the entrance to the fence surrounding the Justice Center. Protestors had broken the lock on the fence, opening the gate.
+
+Federal officers seize a woman and close the fence again. Officers drag the woman away, presumably to arrest her. They also fix the fence, securing the lock again. Officers then fire impact munitions and pepper spray through the fence.
+
+tags: protestor, grab, shoot, spray, pepper-spray, projectile
+
+id: or-portland-141
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1286217242909134848
+
+
+### Federal officer kicks tear gas at protestors, fires at short range | July 23rd
+
+Footage shows a federal officer kicking a tear gas canister towards protestors on the opposite sides of a fence. One protestor yells at him. The officer then fires a tear gas canister at the protestor at short range, presumably striking the fence.
+
+tags: shoot, protestor, tear-gas, tear-gas-canister
+
+id: or-portland-145
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286218372103823360
+
+
+### Federal officers fire tear gas in response to fire | July 24th
+
+In response to a small trash fire started by protestors, federal officers fire a considerable amount of tear gas at the fence, much of it landing on the officers' own side.
+
+tags: shoot, tear-gas, protestor
+
+id: or-portland-146
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1286565904956846080
+* https://twitter.com/defendpdx/status/1286571452523638787
+
+
+### Journalist shot in hand with explosive | July 24th
+
+Around 1:30 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a journalist films an explosive projectile shot in their direction. The projectile explodes, striking the journalist in the hand.
+
+tags: journalist, shoot, explosive, projectile
+
+id: or-portland-147
+
+**Links**
+
+* https://twitter.com/Rjaellis/status/1286578718693978113
+
+
+### Protestors struck in face | July 24th
+
+Footage shows a protestor standing in the way of federal officers attempting to cross the fence. An officer strikes him in the face with their baton, even after the protestor has begun moving backward.
+
+tags: protestor, strike, baton
+
+id: or-portland-148
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286583315324010496
+
+
+### Federal officer fire second round of tear gas | July 24th
+
+Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and began pushing protestors north from the Justice Center using tear gas and impact munitions, allegedly pepper balls. The justification for the unlawful assembly declaration appears to be fireworks and a second small trash fire.
+
+tags: protestor, shoot, pepper-ball, tear-gas
+
+id: or-portland-149
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286576074680233984
+* https://twitter.com/MrOlmos/status/1286576915617157127
+* https://twitter.com/MrOlmos/status/1286581310627049472
+* https://twitter.com/hungrybowtie/status/1286565548550053889
+* https://twitter.com/hungrybowtie/status/1286566511360929792
+* https://twitter.com/hungrybowtie/status/1286567767697588225
+* https://twitter.com/hungrybowtie/status/1286568469710872576
+* https://twitter.com/hungrybowtie/status/1286578115599142912
+
+
+### Journalist shot, allegedly in the face | July 24th
+
+Around 4 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a clearly marked member of the press stands at a gap between pieces of fencing. She appears to be filming officers. Several shots are fired and the impact can be seen as they ricochet off her arm. The filmer alleges that at least one projectile struck her in the face.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-150
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1286618588757991424
+
+
+### Officers fire tear gas at protestors without apparent cause | July 24th
+
+Around 1 AM on July 24th, protestors and federal officers stand off in the street. One protestor walks between the two lines, shouting on a megaphone. Without warning, federal officers fire tear gas at the group of protestors.
+
+During this incident, a protestor steps forward and stands with his back facing officers. An officer runs forward and kicks a tear gas canister at the protestor.
+
+tags: protestor, tear-gas
+
+id: or-portland-151
+
+**Links**
+
+* https://twitter.com/Rjaellis/status/1286586303170060289
+* https://twitter.com/Rjaellis/status/1286589941170892800
+
+
+### Officers fire tear gas as they leave the scene | July 24th
+
+As federal officers retreat into the Justice Center, they fire tear gas at a group of protestors on the opposite side of the fence. There is no fire, there are no objects thrown by protestors, so justification for the tear gas is unclear.
+
+tags: protestor, tear-gas
+
+id: or-portland-152
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1286599900759695361
+
+
+### Federal officers respond to breach in fence with tear gas | July 24th
+
+After protestors manage to create a small breach in the fence surrounding the Justice Center around 1:45 AM, federal officers emerge to push protestors back using tear gas, pepper balls and flashbangs. Officers pushed protestors down the street before protestors were able to reform a shield wall and slowly push officers back towards the Justice Center. Footage shows a considerable amount of munitions used and protestors suffering from negative effects of prolonged tear gas exposure, like [here](https://twitter.com/hungrybowtie/status/1286588583067807745)
+
+tags: protestor, tear-gas, shoot, pepper-ball, flashbang
+
+id: or-portland-153
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1286587655942103040
+* https://twitter.com/hungrybowtie/status/1286588583067807745
+* https://twitter.com/hungrybowtie/status/1286590248953106433
+* https://twitter.com/hungrybowtie/status/1286595907639603200
+* https://twitter.com/hungrybowtie/status/1286597632983306240
+* https://twitter.com/MrOlmos/status/1286584067362680835
+* https://twitter.com/MrOlmos/status/1286588101133864960
+* https://twitter.com/MrOlmos/status/1286592229214056450
+
+
+### Journalist struck in hand and knee by tear gas canister | July 24th
+
+Footage from a journalist shows blood on his hand and knee, which he says was sustained by a tear gas canister which struck him while he was sitting down. This comes hours after a U.S. District Court Order against federal troops harming journalists.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: or-portland-154
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286588240636518400
+* https://twitter.com/wyattreed13/status/1286595550523961348
+
+
+### Federal officers arrest woman dancing with flowers | July 24th
+
+Footage shows a woman dancing in front of officers with flowers in her hand. Officers grab her without warning. Another protestor attempts to help the protestor with flowers. Both are dragged away and arrested. Officers fire pepper balls at crowd to suppress protestors.
+
+tags: arrest, grab, shoot, pepper-ball, protestor
+
+id: or-portland-155
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286627567630344194
+
+
+### Federal officer tackle man to the ground | July 24th
+
+Footage shows a man walking down the street. Two federal officers charge up behind him and tackle him to the ground. From protestor response, it appears that the man was not a protestor.
+
+tags: arrest, tackle, bystander
+
+id: or-portland-156
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286613058903670784
 
 
 ## Salem
 
-### Before firing tear gas, Salem PD warns Proud Boys | June 4th
+### Before firing tear gas, Salem PD warns white armed men | June 4th
 
-A police officer is seen warning members of the "Proud Boys," an SPLC-designated hate group, and other white supremacists that they are planning to fire tear gas, and that these members should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
+A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
 tags: tear-gas, inhumane-treatment
 
@@ -7883,6 +9557,7 @@ id: pa-erie-1
 
 * https://twitter.com/ItsKadynC/status/1266967646345613317
 * https://twitter.com/the7goonies/status/1266989439160590336
+* [Extended footage. Events around 7:45](https://www.youtube.com/watch?v=KcjH7RdQob4)
 * [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
 
 
@@ -8628,6 +10303,22 @@ id: tx-austin-12
 * https://twitter.com/AltUniverseWash/status/1277104706222002177
 
 
+### Livestreamer arrested and punched | July 17th
+
+Footage shows police approaching a crowd of protestors, singling out livestreamer Hiram Gilberto and arresting him. When the crowd objects, other officers shove the protestors.
+
+Additional footage shows Gilberto tackled to the ground, zip-tied and punched.
+
+tags: journalist, punch, zip-tie, tackle, arrest
+
+id: tx-austin-15
+
+**Links**
+
+* https://streamable.com/srj5s7
+* https://twitter.com/greg_doucette/status/1284497853843415047
+
+
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd
@@ -9092,6 +10783,8 @@ id: va-richmond-4
 
 In this video, protestors on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protestors and knocks a protester off of their bike.
 
+The officer driving the vehicle has been cleared by the department of any wrongdoing.
+
 tags: vehicle, drive, protestor
 
 id: va-richmond-6
@@ -9099,6 +10792,7 @@ id: va-richmond-6
 **Links**
 
 * https://twitter.com/BreRVA/status/1271982379180138502
+* https://richmond.com/news/local/crime/richmond-prosecutor-clears-richmond-police-in-several-complaints-related-to-civil-unrest/article_7bb5a33f-0b35-5d19-9416-a3049a9670b0.html
 
 
 ### Police fire tear gas and rubber bullets at peaceful protest | June 15th
@@ -9151,6 +10845,7 @@ id: va-richmond-8
 * [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
+* [Additional shot of individual struck in head](https://twitter.com/nilsrva/status/1275500062903320582)
 
 
 ### Man struck in face by explosive round | June 26th
@@ -9660,6 +11355,19 @@ id: wa-seattle-28
 
 * https://twitter.com/spekulation/status/1281656761296936961
 * https://www.reddit.com/r/PublicFreakout/comments/hovouj/seattle_police_officer_caught_making_up_a_false/
+
+
+### Protestor violently arrested | July 20th
+
+During protests in Seattle, some protestors walk past officers arresting a protestor. Another officer pepper sprays these protestors. When a protestor stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protestor in the groin. Officers then pin the protestor down to arrest them. When officers go to move the protestor, the protestor appears to be limp, apparently unconscious. Officers lift the protestor off the ground and carry them away.
+
+tags: pepper-spray, spray, protestor, shove, grab, throw, kick, knee, arrest
+
+id: wa-seattle-29
+
+**Links**
+
+* https://twitter.com/spekulation/status/1285468287334141952
 
 
 
