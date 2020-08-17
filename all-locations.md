@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-14T05:20:08.421670+00:00
+UPDATED AT: 2020-08-17T09:47:45.401019+00:00
 
 
 # Alabama
@@ -620,6 +620,7 @@ id: ca-losangeles-3
 * https://twitter.com/ElieTWMayniac/status/1266914242885754880
 * https://www.instagram.com/p/CA1hQ8WHLp1/?igshid=x4dnp455q05t
 * https://abc7.com/6231194/
+* [LAPD Body cam footage](https://www.youtube.com/embed/hwZMZvlHEI4)
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
@@ -2631,6 +2632,21 @@ id: fl-tampa-7
 * https://www.youtube.com/watch?v=_uFeu1zUYIo
 
 
+### BLM Organizer hospitalized after officer kneels on her neck | August 12th
+
+Shortly after 8 PM on August 12th, an organizer leaving a protest was singled out and arrested for unknown cause. During the arrest an officer knelt on her neck. Other protesters allege she was left without medical care for 20 minutes before being transported to the hospital. As of August 13th, she had not been booked by the Hillsborough County Sheriff's Office.
+
+tags: protester, arrest, knee, knee-on-neck, inhumane-treatment
+
+id: fl-tampa-8
+
+**Links**
+
+* https://www.instagram.com/p/CDzyyQOAKEh/
+* https://www.instagram.com/tv/CDz27yPp1wN/
+* https://www.msn.com/en-us/news/crime/black-lives-matter-activist-hospitalized-after-police-seen-kneeling-on-her-neck/ar-BB17UnHU
+
+
 
 
 # Georgia
@@ -3087,6 +3103,77 @@ id: il-chicago-21
 **Links**
 
 * https://twitter.com/jamaicaponders/status/1284680046473621505
+
+
+### Police shove protesters with bikes | August 15th
+
+Footage shows a line of police officers shouting, "Move," and shoving protesters backward with their bikes.
+
+tags: protester, shove, bike
+
+id: il-chicago-22
+
+**Links**
+
+* https://twitter.com/BaburRealer/status/1294834101988597766
+
+
+### Police shove and pepper spray protesters | August 15th
+
+Police charge into a crowd of protesters. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
+
+tags: protester, push, shove, pepper-spray, spray
+
+id: il-chicago-23
+
+**Links**
+
+* https://twitter.com/ChicagoCritter/status/1294827198961061888
+* https://twitter.com/exfratbro/status/1295044305338474496
+
+
+### White-shirted officer shoves his way through a crowd of protesters | August 15th
+
+Footage shows police and protesters facing off. An officer in a white shirt, indicating higher rank, shoves his way into the crowd of protesters. Additional footage shows other officers shoving protesters as well.
+
+tags: protester, push, shove
+
+id: il-chicago-24
+
+**Links**
+
+* https://twitter.com/dudgedudy/status/1294762556901535744
+* https://twitter.com/dudgedudy/status/1294849796583362560
+
+
+### Police shove and strike protesters | August 15th
+
+In an incident that appears to occurr in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
+
+tags: protester, shove, push, tackle, punch, beat, baton, bike
+
+id: il-chicago-25
+
+**Links**
+
+* https://twitter.com/luz_mayancela/status/1294802015483318276
+
+
+### Police grab umbrellas from protesters, then escalate force | August 15th
+
+Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and discharging pepper spray.
+
+tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
+
+id: il-chicago-26
+
+**Links**
+
+* https://twitter.com/dudgedudy/status/1294849257896316929
+* https://twitter.com/delvecchiograce/status/1294770082816696325
+* https://twitter.com/delvecchiograce/status/1294770424266534912
+* https://twitter.com/delvecchiograce/status/1294770619167444994
+* https://twitter.com/delvecchiograce/status/1294771000865959941
 
 
 ## Joliet
@@ -4197,10 +4284,38 @@ id: mi-kalamazoo-2
 
 **Links**
 
-* WOODTV8 live crew: https://streamable.com/xvlky1
-* Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
-* MLive article: https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html
-* IBB image backup of Asst. Chief and City Manager kneeling: https://ibb.co/Fgrwqkj
+* [WOODTV8 live crew](https://streamable.com/xvlky1)
+* [Kalamazoo Gazette via Facebook Live](https://streamable.com/0wfiu3)
+* [MLive article](https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html)
+* [IBB image backup of Asst. Chief and City Manager kneeling](https://ibb.co/Fgrwqkj)
+
+
+### Reporter covering Proud Boys arrested | August 15th
+
+A journalist with MLive was covering a Proud Boys rally on August 15th. Footage shows him arrested while standing in the street. He states he was charged with impeding traffic.
+
+tags: journalist, arrest
+
+id: mi-kalamazoo-3
+
+**Links**
+
+* https://twitter.com/Phil_Lewis_/status/1294732715221286913
+* https://twitter.com/samueljrob/status/1294741751425568771
+* https://twitter.com/PolarBarrett/status/1294742239499911170
+
+
+### Police charge, pepper spray, and tackle protesters | August 15th
+
+Police charge at protesters, pepper spraying indiscriminately. One protester is also tackled to the ground.
+
+tags: protester, tackle, pepper-spray, spray
+
+id: mi-kalamazoo-4
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/iaki6j/police_charge_antifascist_protestors_today_in/
 
 
 
@@ -6317,6 +6432,19 @@ id: ny-newyorkcity-70
 * [Clip](https://int.nyt.com/data/videotape/finished/2020/07/1594394818/0_id73-1254w.mp4)
 * [Original Tweet](https://twitter.com/NoahHurowitz/status/1268726877679738886)
 * [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
+
+
+### Police shove protester to the ground | (Believed to be) June 4th
+
+After a protester is pepper sprayed, other protesters gather around the protester while a medic treats them. The filmer is struck repeatedly by an officer with a baton and shoved to the ground, apparently injuring his knee.
+
+tags: shove, push, baton, protester
+
+id: ny-newyorkcity-101
+
+**Links**
+
+* https://www.tiktok.com/@kiakekate/video/6834753267575033093
 
 
 ### Police shove protester off bike | June 5th
@@ -11692,6 +11820,332 @@ id: or-portland-261
 * https://twitter.com/Mestizo43/status/1293120463715983360
 
 
+### Police shove and arrest protester | August 12th
+
+Police shove a protester into the crowd. The protester falls over. Police then strike the protester repeatedly and arrest them.
+
+tags: protester, shove, push, strike, baton, arrest
+
+id: or-portland-269
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1293804460309807104
+
+
+### Police assault protesters with batons | August 13th
+
+Shortly after midnight on August 13th, officers continued to disperse protesters, pushing them away from the Justice Center. Officers charged at protesters, shoving them with batons, knocking several to the ground.
+
+Additional footage shows a member of the press thrown to the ground by police.
+
+tags: shove, push, strike, baton, protester, journalist
+
+id: or-portland-264
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1293807939925417985
+* https://twitter.com/BitterTier/status/1293860665422041089
+* https://twitter.com/MaranieRae/status/1294037876296962048
+
+
+### Police tear gas protesters | August 13th
+
+Police fire tear gas at protesters after several attempts at dispersal, during which protesters threw paint balloons and fireworks back. The PPB is currently restricted to using tear gas only as a life-saving measure. Police fire tear gas ahead of protesters while pushing them back, forcing protesters to walk through the tear gas.
+
+tags: protester, tear-gas
+
+id: or-portland-265
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1293807939925417985
+* https://twitter.com/MrOlmos/status/1293815460715089920
+* https://twitter.com/MrOlmos/status/1293819208984178688
+* https://twitter.com/MrOlmos/status/1293820214253989888
+* https://twitter.com/MrOlmos/status/1293821400394866689
+* https://mobile.twitter.com/IwriteOK/status/1293809625880395776
+* https://mobile.twitter.com/IwriteOK/status/1293811562482814976
+* https://mobile.twitter.com/IwriteOK/status/1293813231836790786
+* https://twitter.com/hungrybowtie/status/1293816637305450498
+* https://twitter.com/hungrybowtie/status/1293814797557850112
+
+
+### Police shove protesters on staircase, punch arrestee in stomach | August 13th
+
+Police make a violent arrest on an outdoor staircase. The arrestee is punched repeatedly in the abdomen. Police then push press back.
+
+tags: protester, journalist, push, shove, punch, arrest
+
+id: or-portland-266
+
+**Links**
+
+* https://mobile.twitter.com/1misanthrophile/status/1293812124204978176
+* https://mobile.twitter.com/Johnnthelefty/status/1293827373075279872
+
+
+### Police slash tires of van | August 13th
+
+Police approach a van belonging to Timbers Army, which was slowly driving away from police alongside protesters and slash the tires of the vehicle.
+
+In a statement posted on Twitter, Timbers Army said the vehicle was on-site to provide supplies for medics, as well as PPE and water for protesters.
+
+tags: protester, property-destruction
+
+id: or-portland-267
+
+**Links**
+
+* https://mobile.twitter.com/IwriteOK/status/1293812356640735232
+* https://mobile.twitter.com/IwriteOK/status/1293820768661381122
+* https://twitter.com/MrOlmos/status/1293818658213359617
+* https://twitter.com/hungrybowtie/status/1293815890274787331
+* https://twitter.com/timbersarmy/status/1294019001752854529
+
+
+### Police throw protester to the ground | August 13th
+
+A man following dispersal orders turns and speaks to police. Police throw him to the ground and strike him repeatedly.
+
+tags: protester, shove, push, strike, baton
+
+id: or-portland-268
+
+**Links**
+
+* https://mobile.twitter.com/Johnnthelefty/status/1293807313417957376
+
+
+### Police charge at and beat protesters with shields | August 14th
+
+Protesters and police stand off in the streets. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
+
+tags: protester, tackle, strike, shove, push, baton
+
+id: or-portland-271
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294506475809681409
+* https://twitter.com/1misanthrophile/status/1294507402188865537
+
+
+### Officer stomps on protester trapped under shield | August 14th
+
+After police charge the protester shield line, an officer stomps on a protester trapped under their shield.
+
+tags: protester, kick
+
+id: or-portland-286
+
+**Links**
+
+* https://twitter.com/danielvmedia/status/1294671439581212677
+
+
+### Officer shoves stumbling protester | August 14th
+
+A protester trips and attempts to stand. While trying to stand, an officer throws them to the sidewalk.
+
+tags: protester, shove, push
+
+id: or-portland-273
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294508631845552128
+
+
+### Officer shoves reporter | August 14th
+
+Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk. The officer repeatedly shoves the journalist, striking their phone at one point.
+
+tags: journalist, shove, push
+
+id: or-portland-274
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1294530884587069440
+
+
+### Officer shove compliant protesters | August 14th
+
+After police clear the protester shield line, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
+
+tags: protester, shove, push, baton
+
+id: or-portland-275
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1294515890990411776
+
+
+### Officer shoves protester on the sidewalk | August 14th
+
+A protester steps off the sidewalk and an officer approaches, shouting, "Move." The protester immediately steps back on the sidewalk. The officer then shoves the protester.
+
+tags: protester, shove, push
+
+id: or-portland-276
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1294507959553126400
+
+
+### Police repeatedly shove drummer | August 14th
+
+A drummer walks toward police. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
+
+tags: protester, shove, push, baton
+
+id: or-portland-278
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294507048663543808
+
+
+### Police slash tires of bystander vehicle | August 15th
+
+A bystander in a vehicle with a Black Lives Matter sign pulled off to the side of the road to allow police vehicles to pass by. An officer then slashed the vehicles tires.
+
+tags: bystander, property-destruction, abuse-of-power
+
+id: or-portland-270
+
+**Links**
+
+* https://twitter.com/badbirdiebad/status/1294540208600301570
+* https://twitter.com/hungrybowtie/status/1294551688959811584
+* https://twitter.com/PDocumentarians/status/1294589695649656834
+
+
+### Officer shoves protester to the ground | August 15th
+
+Protesters gathered on the sidewalk and stood off with police in the street. One individual walks in the street filming. The officer strikes him to the ground with a baton.
+
+tags: protester, shove, push, baton
+
+id: or-portland-272
+
+**Links**
+
+* [17:06](https://www.pscp.tv/w/1rmGPYnZjeMJN?t=17m6s)
+* https://twitter.com/bogwitchenergy/status/1294558853640548353
+
+
+### Livestreamer shoved from behind | August 15th
+
+A livestreamer dropped some of their equipment during a police push. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
+
+tags: journalist, shove, push
+
+id: or-portland-277
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1294584539201695744
+
+
+### Police charge protesters with shields | August 15th
+
+Around midnight on August 15th, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
+
+tags: protester, strike, baton, punch
+
+id: or-portland-279
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294896664847634432
+* https://www.youtube.com/watch?v=qSS8h63z5Fc
+* https://www.reddit.com/r/PublicFreakout/comments/iaoq97/portland_police_charges_protestors_81620/
+
+
+### Officer tackles multiple protesters | August 15th
+
+While dispersing protesters, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
+
+tags: protester, journalist, tackle
+
+id: or-portland-284
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1295016916625395713
+
+
+### Police throw stun grenade at retreating protesters | August 16th
+
+Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
+
+tags: protester, stun-grenade
+
+id: or-portland-280
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294898551013572609
+
+
+### Police slash the tires of vehicles supporting protesters | August 16th
+
+Police officers charge at protesters. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
+
+tags: protester, property-destruction
+
+id: or-portland-281
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294899117865316352
+* https://twitter.com/alex_zee/status/1294899596297084930
+
+
+### Police shove press on the sidewalk | August 16th
+
+Footage shows police charging at protesters in the street. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
+
+tags: journalist, shove, push, baton
+
+id: or-portland-282
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294900330488926208
+
+
+### Police shove protester from behind | August 16th
+
+Footage shows a protester holding a sign above their head and walking slowly away from police. An officer runs up in the protester's blind spot and shoves the protester to the ground.
+
+tags: protester, push, shove
+
+id: or-portland-283
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1294936995014119424
+
+
+### Police shove protesters and confiscate guitar | August 16th
+
+Police shove protesters on the sidewalk. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
+
+tags: protester, push, shove, abuse-of-power
+
+id: or-portland-285
+
+**Links**
+
+* https://twitter.com/Spronsenite/status/1294954167874670596
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
@@ -14169,6 +14623,50 @@ id: wa-seattle-53
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
 
 
+### Police pepper spray legal observer | July 25th
+
+A legal observer is seen filming a short distance from police. An officer then pepper sprays her in the face.
+
+tags: legal-observer, pepper-spray, spray
+
+id: wa-seattle-55
+
+**Links**
+
+* https://twitter.com/NLG_Seattle/status/1287427693680582656
+* [NLG Press release regarding the protest](https://www.nlg.org/seattle/2020/07/26/legal-observers-from-seattles-national-lawyers-guild-aggressively-targeted-by-law-enforcement/)
+
+
+### Police tackle protesters in street | August 13th
+
+Police approach protesters standing in the street. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
+
+tags: protester, shove, push, baton, arrest
+
+id: wa-seattle-56
+
+**Links**
+
+* https://www.instagram.com/p/CD1oSRRA-R5/
+* https://twitter.com/spekulation/status/1294131614281129984
+* https://twitter.com/Athena_Bellorum/status/1293838639361744896
+* [Full video; incident at 7:45](https://www.instagram.com/p/CD174Q_gMvH/)
+
+
+### Police damage vehicles supporting protesters | August 14th
+
+Police walk behind a line of cars driving slowly to protect protesters ahead of them. Police overtake the cars and an officer smashes the window of one.
+
+tags: protester, property-destruction, abuse-of-power
+
+id: wa-seattle-57
+
+**Links**
+
+* https://twitter.com/RebellionBaby/status/1294535563110825985
+* https://twitter.com/TirisTogia/status/1294520513306300416
+
+
 
 
 # Washington DC
@@ -14609,6 +15107,32 @@ id: dc-dc-28
 
 * https://twitter.com/stillgray/status/1289558509500039174
 * https://www.washingtontimes.com/news/2020/aug/1/police-stop-pro-lifers-painting-street-black-prebo/
+
+
+### Individual pepper sprayed while filming | August 14th
+
+Shortly after midnight on August 14th, an individual - allegedly a bystander - is filming police. An officer shoves him away and pepper sprays him. The officer appears to catch another officer in the pepper spray.
+
+tags: bystander, pepper-spray, spray, shove, push
+
+id: dc-dc-29
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1294137999517655041
+
+
+### Protester grabbed and punched | August 14th
+
+A protester approaches cops making an arrest and is restrained by an officer while a 2nd officer punches her.
+
+tags: protester, grab, punch
+
+id: dc-dc-30
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1294497266250723328
 
 
 
