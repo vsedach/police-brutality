@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-17T09:47:45.401019+00:00
+UPDATED AT: 2020-08-19T08:05:24.573459+00:00
 
 
 # Alabama
@@ -2777,6 +2777,21 @@ id: ga-lawrenceville-1
 * https://twitter.com/throneofmorac/status/1266870493858185217?s=09
 
 
+## Stone Mountain
+
+### Officer shoves press | August 15th
+
+Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield.
+
+tags: journalist, push, shove, shield
+
+id: ga-stonemountain-1
+
+**Links**
+
+* https://twitter.com/matlockartist/status/1294827747059970049
+
+
 ## Valdosta
 
 ### Sheriff scuffles with protester over "F\*ck Trump" sign | June 3rd
@@ -3148,7 +3163,7 @@ id: il-chicago-24
 
 ### Police shove and strike protesters | August 15th
 
-In an incident that appears to occurr in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
+In an incident that appears to occur in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
 
 tags: protester, shove, push, tackle, punch, beat, baton, bike
 
@@ -3161,7 +3176,9 @@ id: il-chicago-25
 
 ### Police grab umbrellas from protesters, then escalate force | August 15th
 
-Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and discharging pepper spray.
+Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray. Police additionally pepper sprayed protesters.
+
+An alternate angle provided by the Chicago Police Department, shows police initiating violence in the top left of the video at 0:52.
 
 tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
 
@@ -3173,7 +3190,48 @@ id: il-chicago-26
 * https://twitter.com/delvecchiograce/status/1294770082816696325
 * https://twitter.com/delvecchiograce/status/1294770424266534912
 * https://twitter.com/delvecchiograce/status/1294770619167444994
-* https://twitter.com/delvecchiograce/status/1294771000865959941
+* [0:52](https://twitter.com/Chicago_Police/status/1295008403123773440)
+* https://twitter.com/StevenGravesTV/status/1294787019114270720
+
+
+### Police pepper spray fleeing protesters | August 15th
+
+Footage shows protesters moving away from police. Officer discharge pepper spray at them.
+
+tags: protester, pepper-spray, spray
+
+id: il-chicago-27
+
+**Links**
+
+* https://twitter.com/lukeharuki92/status/1295167889876692992
+* https://twitter.com/lukeharuki92/status/1295384526169026562
+
+
+### Police pepper spray protesters | August 15th
+
+While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
+
+tags: protester, pepper-spray, spray
+
+id: il-chicago-28
+
+**Links**
+
+* https://twitter.com/RealSaleemJuma/status/1294916491758854144
+
+
+### Police shove through protesters to make targeted arrest | August 15th
+
+Footage shows police walking protesters down the street. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
+
+tags: protester, push, shove, arrest
+
+id: il-chicago-29
+
+**Links**
+
+* https://twitter.com/jus10chi/status/1294789639899930625
 
 
 ## Joliet
@@ -3911,6 +3969,21 @@ id: ky-louisville-18
 * https://twitter.com/HayesGardner/status/1281393307805978624
 * https://twitter.com/greg_doucette/status/1281447373294776321
 * https://twitter.com/HayesGardner/status/1281393822786781185
+
+
+### Protester pepper sprayed through open door | July 10th
+
+Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing officers and asking for their names and badge numbers through an opening in the chained shut doors. An officer approaches (alleged in the lawsuit to be Deputy George Grissom) and pepper-sprayed Mr. Jennings through the opening. Jennings is now suing the Jefferson County Sheriff's Office.
+
+tags: protester, pepper-spray, spray
+
+id: ky-louisville-19
+
+**Links**
+
+* [Courier video](https://www.courier-journal.com/videos/news/local/2020/08/03/video-shows-jefferson-county-deputy-pepper-spray-louisville-protester/5558102002/)
+* [Courier story](https://www.courier-journal.com/story/news/local/2020/08/03/louisville-protester-sues-sheriff-after-being-pepper-sprayed/5555497002/)
+* [Wave3 Story and Video](https://www.wave3.com/2020/07/15/lawyer-alleged-pepper-sprayed-protester-calls-jefferson-co-deputy-danger-our-community/)
 
 
 
@@ -6776,6 +6849,29 @@ id: nc-asheville-3
 * https://twitter.com/greg_doucette/status/1270378863219138561
 
 
+### Reporter for The Blade arrested at protest | August 9th
+
+A journalist working for The Asheville Blade was following protests in their car on August 9th. They state that police stopped them without warning, pulled them out of their car, zip-tied and arrested them. They state that because of the heat, their sweat made their hands slippery and their zip-ties fell off; an officer then replaced them with standard handcuffs, cuffing the journalist's arms tightly behind their back.
+
+They state that after being removed from the police wagon, they were patted down. A female cop stood by while a male cop patted them down. The journalist states the male cop's "hands aggressively slid over my vagina and my ass."
+
+They were held in a cell for several hours, in and out of cuffs. Several police officers asked the journalist if they were going to behave now, and made other similar comments.
+
+Images taken after release show significant bruising on one of the journalist's arms.
+
+tags: journalist, arrest, inhumane-treatment, zip-tie
+
+id: nc-asheville-4
+
+**Links**
+
+* https://ashevilleblade.com/?p=3904
+* https://twitter.com/mamakittyv/status/1294324476721627137
+* https://twitter.com/mamakittyv/status/1294324478357495816
+* https://twitter.com/mamakittyv/status/1294324480140091394
+* https://twitter.com/mamakittyv/status/1294324481675137024
+
+
 ## Charlotte
 
 ### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
@@ -7676,6 +7772,9 @@ id: oh-toledo-1
 * [Starts around 19:00](https://www.facebook.com/thetoledoblade/videos/2407373416227629)
 * [Starts at 11:15](https://www.facebook.com/thetoledoblade/videos/745938859545308)
 * [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
+* https://twitter.com/NolanRosenkrans/status/1266891856576724992
+* https://twitter.com/NolanRosenkrans/status/1266866678895443968
+* https://twitter.com/NolanRosenkrans/status/1266842814027124739
 
 
 
@@ -12080,6 +12179,33 @@ id: or-portland-284
 * https://twitter.com/KohzKah/status/1295016916625395713
 
 
+### Officer shoots then clubs protester | August 15th
+
+An officer fires at a protester at a distance of several feet (far closer then recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
+
+tags: protester, shoot, projectile, strike
+
+id: or-portland-287
+
+**Links**
+
+* https://mobile.twitter.com/gravemorgan/status/1295116634583994369
+
+
+### Police officer rips mask off protester, shoves reporter | August 15th
+
+A journalist films as officers push through a line of protesters with shields. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
+
+tags: protester, journalist, push, shove
+
+id: or-portland-288
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1295168110958280705
+* https://twitter.com/MaranieRae/status/1295168112933736449
+
+
 ### Police throw stun grenade at retreating protesters | August 16th
 
 Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
@@ -12545,6 +12671,21 @@ id: pa-pittsburgh-6
 **Links**
 
 * https://twitter.com/jackohrman/status/1287258983149993984
+
+
+### Protest marshal abducted by officers in unmarked van | August 15th
+
+A protest marshal was singled out and arrested with charges of "Obstructing Highways and Other Public Passages." He was arrested while on the sidewalk when plainclothes officers emerged from an unmarked van, grabbed him, and drove away.
+
+tags: protester, abuse-of-power, arrest
+
+id: pa-pittsburgh-7
+
+**Links**
+
+* https://www.pghcitypaper.com/pittsburgh/photos-civil-saturday-protest-disrupted-when-marshal-is-arrested-by-heavily-armed-pittsburgh-police-in-unmarked-van/Content?oid=17823887
+* https://twitter.com/savlucy420/status/1294753559263817728
+* https://twitter.com/samm_bones/status/1294769302348890113
 
 
 
@@ -14665,6 +14806,32 @@ id: wa-seattle-57
 
 * https://twitter.com/RebellionBaby/status/1294535563110825985
 * https://twitter.com/TirisTogia/status/1294520513306300416
+
+
+### Legal observer shoved to the ground | August 16th
+
+During a standoff between police and protesters, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
+
+tags: legal-observer, push, shove
+
+id: wa-seattle-58
+
+**Links**
+
+* https://twitter.com/FirecrowTV/status/1295242437456048130
+
+
+### Police charge protesters without warning | August 16th
+
+Footage shows police and protesters separated from one another after police declared a riot. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
+
+tags: protester, shove, bike
+
+id: wa-seattle-59
+
+**Links**
+
+* https://twitter.com/zmboop/status/1295242820786110469
 
 
 
